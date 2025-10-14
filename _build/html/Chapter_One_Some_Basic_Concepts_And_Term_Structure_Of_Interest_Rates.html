@@ -527,10 +527,7 @@ document.write(`
 <p><strong>11. Graphing the Term Structure (Again)</strong></p>
 <p><strong>12. Python, Pandas, NumPy, and Financial Insights</strong></p>
 <p><strong>Chapter Exercise: Calculating and Plotting Spot and Forward Rates</strong>
-<span style="font-family: 'Garamond', serif;
-    font-size: 16px;
-    text-indent: 0.25in;
-    line-height: 1.5;"></p>
+</span></p>
 </section>
 <section id="python-for-bonds-and-interest-rates">
 <h2><span style="font-family:Franklin Gothic Medium', sans-serif;">Python for Bonds and Interest Rates</span><a class="headerlink" href="#python-for-bonds-and-interest-rates" title="Link to this heading">#</a></h2>
@@ -573,7 +570,7 @@ In this chapter, we’ll explore bond calculations and interest through the lens
 <p>Some bonds only repay principal at maturity, or <span class="math notranslate nohighlight">\(T\)</span>. Because there are no periodic coupon payments, these bonds are appropriately known as zero-coupon bonds. The values of zero-coupon bonds are calculated as:</p>
 <div class="math notranslate nohighlight">
 \[\large Zero\,Coupon\, Bond =Principal_T\times PV(T)\]</div>
-<p>In order to price any bond, it’s necessary to know the present value of payments at the relevant dates. If the zero-coupon bond values are known for the relevant dates, the present value of each date can be determined. To do so, spanide the value of the zero-coupon bond by its principal, as shown below:</p>
+<p>In order to price any bond, it’s necessary to know the present value of payments at the relevant dates. If the zero-coupon bond values are known for the relevant dates, the present value of each date can be determined. To do so, dvide the value of the zero-coupon bond by its principal, as shown below:</p>
 <div class="math notranslate nohighlight">
 \[\large  PV(t)=\frac{Zero\,Coupon\, Bond_t }{Principal_t}\]</div>
 <p>Each coupon-bond cash flow is equivalent to an investment in a zero-coupon bond. As such, we can replicate a coupon bond with a sequence of zero-coupon bonds: The number of zero-coupon bonds with a maturity of <span class="math notranslate nohighlight">\(t\)</span> equals the coupon bond’s cash flow at <span class="math notranslate nohighlight">\(t\)</span> divided by the zero-coupon bond’s principal. For example, consider a <span class="math notranslate nohighlight">\(\$40\)</span> coupon that is paid every six months before maturity. This coupon is valued with a sequence of 0.04 zero-coupon bonds, with a <span class="math notranslate nohighlight">\(\$1,000\)</span> principal and maturities matching the coupon payment dates. The coupon bond’s payment at maturity equals 1.040 zero-coupon bonds, with a <span class="math notranslate nohighlight">\(\$1,000\)</span> principal and the same maturity as the coupon bond. Further, a coupon bond’s value is the sum of all the zero-coupon bond values needed to replicate that bond’s cash flows. If the coupon bond and the zero-coupon bonds have the same principal, and all the coupon payments of the coupon bond are equal, the value of the coupon bond is:</p>
@@ -625,8 +622,9 @@ In this chapter, we’ll explore bond calculations and interest through the lens
 <p>Taking natural logs of the previous equation derives continuously compounded rates from discretely compounded rates:</p>
 <div class="math notranslate nohighlight">
 \[\Large R_c = d\times ln(1 + \frac{R_d}{d})\]</div>
-<p>Finally, discretely compounded rates can be derived from continuously compounded rates by dividing both sides by the compounding frequency, or
-$<span class="math notranslate nohighlight">\(\Large \frac{R_c}{d} = ln(1 + \frac{R_d}{d})\)</span>$</p>
+<p>Finally, discretely compounded rates can be derived from continuously compounded rates by dividing both sides by the compounding frequency, or</p>
+<div class="math notranslate nohighlight">
+\[\Large \frac{R_c}{d} = ln(1 + \frac{R_d}{d})\]</div>
 <p>and raising Euler’s number, <span class="math notranslate nohighlight">\(e\)</span>, to both sides of the equation:</p>
 <div class="math notranslate nohighlight">
 \[\Large R_d = d\times (e^\frac{R_c}{d} - 1)\]</div>
@@ -642,7 +640,7 @@ $<span class="math notranslate nohighlight">\(\Large \frac{R_c}{d} = ln(1 + \fra
     font-size: 16px;
     text-indent: 0.25in;
     line-height: 1.5;"></p>
-<p>It’s good practice to import all required libraries and modules in the first code cell of a Notebook. Unless a new function or module is being introduced, this chapter follows this practice. If a library is already installed, it’s imported to the Notebook. If a library isn’t installed, it’s installed and then imported.</span></p>
+<p>It’s good practice to import all required libraries and modules in the first code cell of a Notebook. Unless a new function or module is being introduced, this chapter follows the practice. If a library is already installed, it’s imported to the Notebook. If a library isn’t installed, it’s installed and then imported.</span></p>
 <p><span style="font-family: 'Garamond', serif;
     font-size: 16px;
     text-indent: 0.25in;
@@ -2249,7 +2247,7 @@ Name: 2022-09-15 00:00:00, dtype: float64
 <div class="cell_output docutils container">
 <div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
 <span class="ne">IndexError</span><span class="g g-Whitespace">                                </span>Traceback (most recent call last)
-<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_29732</span><span class="o">/</span><span class="mf">3824672720.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_40874</span><span class="o">/</span><span class="mf">3824672720.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
 <span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">parent</span><span class="p">,</span><span class="n">folder</span><span class="p">,</span><span class="n">subfolder</span><span class="o">=</span><span class="n">parent_folder_subfolder</span><span class="p">()</span>
 
 <span class="nn">&lt;string&gt;</span> in <span class="ni">parent_folder_subfolder</span><span class="nt">(default)</span>
