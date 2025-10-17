@@ -1,47 +1,10 @@
-# Basic Bond Concepts and the Term Structure of Interest Rates
+# Financial Python
 
-**This Jupyter Article is Chapter One of the Volume *Three:Basic Concepts of Fixed Income*.  Highlights of the Chapter are:**
+## Basic Concepts of Fixed Income
 
-* ***Financial Concepts***
+### Chapter One: Basic Bond Concepts and the Term Structure of Interest Rates
 
-    * *Basic bond pricing*
-    * *Defining the term structure of interest rates*
-    * *Calculating and graphing the term structure of interest rates*
-    * *The term structure and the state of financial markets*
+___
 
-* ***Python Concepts***
-
-    * *NumPy arrays*
-    * *Python DataFrames*
-    * *Accesing data with a URL address*
-    * *Custom modules*
-
-The Chapter includes the Chapter's notebook as well as the two functions imported from the custom module of the Volume.
-
-
-* The Jupyter notebook for (*Basic Bond Concepts And Term Structure Of Interest Rates*)
-* The code of two functions used in the notebook- (parent_folder_subfolder and one-y-axis)
-
-
-
-
-Beyond simply viewing the notebook, there are several ways to interact with it:
-
-**Downloading the Notebook:**
-
-* *Click the download icon.*
-
-**Copying Code Cells:**
-
-   * *Hover over the upper-right corner of a code cell to reveal the copy option.*
-
-**Launch Options:**
-
-* *The launch icon provides three choices:*
-    * **Binder:** Opens the notebook in a new browser tab. Binder typically launches in under a minute and supports up to 100 simultaneous users for the current version used by Financial Python.
-    * **Colab:** Launches a Colab version of the notebook directly, without requiring Binder. A Google Drive is not necessary for launching, but it is for saving a copy.
-    * **Live Code:** Allows users to execute any code cell directly within the notebook. This option requires a Binder launch.
-
-
-```{tableofcontents}
-```
+####
+DRAFT CHAPTER FOR PILOT. NOT FOR DISTRIBUTION. This Jupyter Notebook was prepared by Ken Eades, Professor Emeritus of Business Administration, and Pat Hess, Owner, Perceptum Financial Analytics. Copyright © 2025 by the University of Virginia Darden School Foundation, Charlottesville, VA. All rights reserved. *No part of this publication may be reproduced, stored in a retrieval system, used in a spreadsheet, or transmitted in any form or by any means*&mdash;*electronic, mechanical, photocopying, recording, or otherwise*&mdash;*without the permission of the Darden School Foundation. This publication is protected by copyright and may not be uploaded in whole or part to any AI, large language model, or similar system, or to any related training database.* We welcome your feedback on the *Financial Python* pilot program. For any comments or questions related to the pilot and the *Financial Python* users, [contact sales](mailto:sales@dardenbusinesspublishing.com).
