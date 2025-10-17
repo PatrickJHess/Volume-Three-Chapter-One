@@ -27,7 +27,7 @@
 
 **Interacting with Jupyter Notebooks**
 
-The Jupyter notebook *Chapter One Notebook Of Basic Concepts Of Fixed Income* can be viewed just as you are viewing this page, *Basic Bond Concepts and the Term Structure of Interest Rates*. The notebook, however, offers deeper interactive capabilities.  When you navigate to *Chapter One Notebook Of Basic Concepts Of Fixed Income* the upper-right corner of the viewing area shows icons for launching and downloading the notebook.  Downloading needs no elaboration.  The launch icon offers three options:
+The Jupyter notebook *Chapter One Notebook Of Basic Concepts Of Fixed Income* can be viewed just as you are viewing this page. The notebook, however, offers deeper interactive capabilities.  When you navigate to *Chapter One Notebook Of Basic Concepts Of Fixed Income* the upper-right corner of the viewing area shows icons for launching and downloading the notebook.  Downloading needs no elaboration.  The launch icon offers three options:
 
 * **Binder:**
     * Launches in a new browser tab, typically within a minute. 
