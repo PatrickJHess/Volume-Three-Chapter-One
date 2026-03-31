@@ -1,0 +1,1060 @@
+nohup: ignoring input
+building myst-cli session with API URL: https://api.mystmd.org
+(node:33576) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+🍡 Execution parallelism set to: 3
+📖 Built imported_functions.md in 46 ms.
+📖 Built Chapter_Summary.md in 85 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 530 ms.
+📖 Built Numpy_And_Pandas.ipynb in 698 ms.
+📖 Built Bond Pricing.md in 748 ms.
+📖 Built Chapter_Highlights.md in 769 ms.
+📖 Built Interacting With Jupyter Books.md in 801 ms.
+📖 Built intro.md in 895 ms.
+📖 Built myst.yml#project.parts.abstract in 722 ms.
+📚 Built 8 pages for project in 1.59 s.
+
+
+	✨✨✨  Starting Book Theme  ✨✨✨
+
+
+
+🔌 Server started on port 3001!  🥳 🎉
+
+
+	👉  http://localhost:3001  👈
+
+
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 43 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 313 ms.
+📖 Built Numpy_And_Pandas.ipynb in 439 ms.
+📖 Built Bond Pricing.md in 479 ms.
+📖 Built Chapter_Highlights.md in 498 ms.
+📖 Built Interacting With Jupyter Books.md in 516 ms.
+📖 Built intro.md in 526 ms.
+📖 Built myst.yml#project.parts.abstract in 462 ms.
+📚 Built 8 pages for project in 657 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 87 ms.
+📖 Built imported_functions.md in 112 ms.
+📖 Built Chapter_Summary.md in 133 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 443 ms.
+📖 Built Numpy_And_Pandas.ipynb in 546 ms.
+📖 Built Bond Pricing.md in 599 ms.
+📖 Built Chapter_Highlights.md in 624 ms.
+📖 Built Interacting With Jupyter Books.md in 654 ms.
+📖 Built intro.md in 669 ms.
+📚 Built 8 pages for project in 801 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 22 ms.
+📖 Built imported_functions.md in 32 ms.
+📖 Built Chapter_Summary.md in 52 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 302 ms.
+📖 Built Numpy_And_Pandas.ipynb in 501 ms.
+📖 Built Bond Pricing.md in 551 ms.
+📖 Built Chapter_Highlights.md in 584 ms.
+📖 Built Interacting With Jupyter Books.md in 608 ms.
+📖 Built intro.md in 626 ms.
+📚 Built 8 pages for project in 771 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 28 ms.
+📖 Built Chapter_Summary.md in 44 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 276 ms.
+📖 Built Numpy_And_Pandas.ipynb in 354 ms.
+📖 Built Bond Pricing.md in 390 ms.
+📖 Built Chapter_Highlights.md in 416 ms.
+📖 Built Interacting With Jupyter Books.md in 433 ms.
+📖 Built intro.md in 443 ms.
+📖 Built myst.yml#project.parts.abstract in 373 ms.
+📚 Built 8 pages for project in 573 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 23 ms.
+📖 Built Chapter_Summary.md in 38 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 274 ms.
+📖 Built Numpy_And_Pandas.ipynb in 362 ms.
+📖 Built Bond Pricing.md in 400 ms.
+📖 Built Chapter_Highlights.md in 422 ms.
+📖 Built Interacting With Jupyter Books.md in 442 ms.
+📖 Built intro.md in 453 ms.
+📖 Built myst.yml#project.parts.abstract in 394 ms.
+📚 Built 8 pages for project in 592 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 24 ms.
+📖 Built Chapter_Summary.md in 39 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 401 ms.
+📖 Built Numpy_And_Pandas.ipynb in 494 ms.
+📖 Built Bond Pricing.md in 551 ms.
+📖 Built Chapter_Highlights.md in 572 ms.
+📖 Built Interacting With Jupyter Books.md in 588 ms.
+📖 Built intro.md in 599 ms.
+📖 Built myst.yml#project.parts.abstract in 530 ms.
+📚 Built 8 pages for project in 814 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 17 ms.
+📖 Built Chapter_Summary.md in 29 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 254 ms.
+📖 Built Numpy_And_Pandas.ipynb in 336 ms.
+📖 Built Bond Pricing.md in 371 ms.
+📖 Built Chapter_Highlights.md in 390 ms.
+📖 Built Interacting With Jupyter Books.md in 405 ms.
+📖 Built intro.md in 414 ms.
+📖 Built myst.yml#project.parts.abstract in 356 ms.
+📚 Built 8 pages for project in 534 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 18 ms.
+📖 Built Chapter_Summary.md in 30 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 217 ms.
+📖 Built Numpy_And_Pandas.ipynb in 302 ms.
+📖 Built Bond Pricing.md in 335 ms.
+📖 Built Chapter_Highlights.md in 354 ms.
+📖 Built Interacting With Jupyter Books.md in 371 ms.
+📖 Built intro.md in 380 ms.
+📖 Built myst.yml#project.parts.abstract in 314 ms.
+📚 Built 8 pages for project in 495 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 23 ms.
+📖 Built imported_functions.md in 34 ms.
+📖 Built Chapter_Summary.md in 49 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 258 ms.
+📖 Built Numpy_And_Pandas.ipynb in 339 ms.
+📖 Built Bond Pricing.md in 374 ms.
+📖 Built Chapter_Highlights.md in 391 ms.
+📖 Built Interacting With Jupyter Books.md in 407 ms.
+📖 Built intro.md in 417 ms.
+📚 Built 8 pages for project in 538 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 35 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 232 ms.
+📖 Built Numpy_And_Pandas.ipynb in 311 ms.
+📖 Built Bond Pricing.md in 346 ms.
+📖 Built Chapter_Highlights.md in 366 ms.
+📖 Built Interacting With Jupyter Books.md in 392 ms.
+📖 Built intro.md in 401 ms.
+📖 Built myst.yml#project.parts.abstract in 336 ms.
+📚 Built 8 pages for project in 531 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 42 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 238 ms.
+📖 Built Numpy_And_Pandas.ipynb in 313 ms.
+📖 Built Bond Pricing.md in 348 ms.
+📖 Built Chapter_Highlights.md in 366 ms.
+📖 Built Interacting With Jupyter Books.md in 383 ms.
+📖 Built intro.md in 392 ms.
+📖 Built myst.yml#project.parts.abstract in 329 ms.
+📚 Built 8 pages for project in 520 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 36 ms.
+📖 Built Chapter_Summary.md in 52 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 329 ms.
+📖 Built Numpy_And_Pandas.ipynb in 484 ms.
+📖 Built Bond Pricing.md in 533 ms.
+📖 Built Chapter_Highlights.md in 558 ms.
+📖 Built Interacting With Jupyter Books.md in 579 ms.
+📖 Built intro.md in 589 ms.
+📖 Built myst.yml#project.parts.abstract in 502 ms.
+📚 Built 8 pages for project in 715 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 33 ms.
+📖 Built Chapter_Summary.md in 47 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 301 ms.
+📖 Built Numpy_And_Pandas.ipynb in 411 ms.
+📖 Built Bond Pricing.md in 516 ms.
+📖 Built Chapter_Highlights.md in 563 ms.
+📖 Built Interacting With Jupyter Books.md in 594 ms.
+📖 Built intro.md in 647 ms.
+📖 Built myst.yml#project.parts.abstract in 485 ms.
+📚 Built 8 pages for project in 796 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 28 ms.
+📖 Built imported_functions.md in 75 ms.
+📖 Built Chapter_Summary.md in 96 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 488 ms.
+📖 Built Numpy_And_Pandas.ipynb in 597 ms.
+📖 Built Bond Pricing.md in 651 ms.
+📖 Built Chapter_Highlights.md in 686 ms.
+📖 Built Interacting With Jupyter Books.md in 736 ms.
+📖 Built intro.md in 748 ms.
+📚 Built 8 pages for project in 1.43 s.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 34 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 234 ms.
+📖 Built Numpy_And_Pandas.ipynb in 310 ms.
+📖 Built Bond Pricing.md in 351 ms.
+📖 Built Chapter_Highlights.md in 373 ms.
+📖 Built Interacting With Jupyter Books.md in 392 ms.
+📖 Built intro.md in 416 ms.
+📖 Built myst.yml#project.parts.abstract in 352 ms.
+📚 Built 8 pages for project in 560 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 35 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 233 ms.
+📖 Built Numpy_And_Pandas.ipynb in 321 ms.
+📖 Built Bond Pricing.md in 357 ms.
+📖 Built Chapter_Highlights.md in 379 ms.
+📖 Built Interacting With Jupyter Books.md in 397 ms.
+📖 Built intro.md in 408 ms.
+📖 Built myst.yml#project.parts.abstract in 345 ms.
+📚 Built 8 pages for project in 615 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 30 ms.
+📖 Built Chapter_Summary.md in 47 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 262 ms.
+📖 Built Numpy_And_Pandas.ipynb in 341 ms.
+📖 Built Bond Pricing.md in 379 ms.
+📖 Built Chapter_Highlights.md in 400 ms.
+📖 Built Interacting With Jupyter Books.md in 419 ms.
+📖 Built intro.md in 430 ms.
+📖 Built myst.yml#project.parts.abstract in 345 ms.
+📚 Built 8 pages for project in 676 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 43 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 267 ms.
+📖 Built Numpy_And_Pandas.ipynb in 372 ms.
+📖 Built Bond Pricing.md in 414 ms.
+📖 Built Chapter_Highlights.md in 436 ms.
+📖 Built Interacting With Jupyter Books.md in 455 ms.
+📖 Built intro.md in 467 ms.
+📖 Built myst.yml#project.parts.abstract in 390 ms.
+📚 Built 8 pages for project in 868 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 34 ms.
+📖 Built imported_functions.md in 48 ms.
+📖 Built Chapter_Summary.md in 65 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 284 ms.
+📖 Built Numpy_And_Pandas.ipynb in 379 ms.
+📖 Built Bond Pricing.md in 419 ms.
+📖 Built Chapter_Highlights.md in 443 ms.
+📖 Built Interacting With Jupyter Books.md in 466 ms.
+📖 Built intro.md in 479 ms.
+📚 Built 8 pages for project in 632 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 33 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 236 ms.
+📖 Built Numpy_And_Pandas.ipynb in 393 ms.
+📖 Built Bond Pricing.md in 446 ms.
+📖 Built Chapter_Highlights.md in 465 ms.
+📖 Built Interacting With Jupyter Books.md in 482 ms.
+📖 Built intro.md in 492 ms.
+📖 Built myst.yml#project.parts.abstract in 443 ms.
+📚 Built 8 pages for project in 689 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 45 ms.
+📖 Built Chapter_Summary.md in 70 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 309 ms.
+📖 Built Numpy_And_Pandas.ipynb in 406 ms.
+📖 Built Bond Pricing.md in 449 ms.
+📖 Built Chapter_Highlights.md in 480 ms.
+📖 Built Interacting With Jupyter Books.md in 501 ms.
+📖 Built intro.md in 515 ms.
+📖 Built myst.yml#project.parts.abstract in 359 ms.
+📚 Built 8 pages for project in 648 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 28 ms.
+📖 Built Chapter_Summary.md in 42 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 229 ms.
+📖 Built Numpy_And_Pandas.ipynb in 312 ms.
+📖 Built Bond Pricing.md in 344 ms.
+📖 Built Chapter_Highlights.md in 362 ms.
+📖 Built Interacting With Jupyter Books.md in 378 ms.
+📖 Built intro.md in 388 ms.
+📖 Built myst.yml#project.parts.abstract in 323 ms.
+📚 Built 8 pages for project in 501 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 24 ms.
+📖 Built imported_functions.md in 34 ms.
+📖 Built Chapter_Summary.md in 47 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 228 ms.
+📖 Built Numpy_And_Pandas.ipynb in 309 ms.
+📖 Built Bond Pricing.md in 341 ms.
+📖 Built Chapter_Highlights.md in 360 ms.
+📖 Built Interacting With Jupyter Books.md in 375 ms.
+📖 Built intro.md in 385 ms.
+📚 Built 8 pages for project in 498 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 34 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 228 ms.
+📖 Built Numpy_And_Pandas.ipynb in 306 ms.
+📖 Built Bond Pricing.md in 339 ms.
+📖 Built Chapter_Highlights.md in 358 ms.
+📖 Built Interacting With Jupyter Books.md in 374 ms.
+📖 Built intro.md in 384 ms.
+📖 Built myst.yml#project.parts.abstract in 341 ms.
+📚 Built 8 pages for project in 525 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 23 ms.
+📖 Built Chapter_Summary.md in 36 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 232 ms.
+📖 Built Numpy_And_Pandas.ipynb in 308 ms.
+📖 Built Bond Pricing.md in 352 ms.
+📖 Built Chapter_Highlights.md in 372 ms.
+📖 Built Interacting With Jupyter Books.md in 392 ms.
+📖 Built intro.md in 402 ms.
+📖 Built myst.yml#project.parts.abstract in 330 ms.
+📚 Built 8 pages for project in 531 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 36 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 221 ms.
+📖 Built Numpy_And_Pandas.ipynb in 309 ms.
+📖 Built Bond Pricing.md in 363 ms.
+📖 Built Chapter_Highlights.md in 386 ms.
+📖 Built Interacting With Jupyter Books.md in 404 ms.
+📖 Built intro.md in 415 ms.
+📖 Built myst.yml#project.parts.abstract in 344 ms.
+📚 Built 8 pages for project in 549 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 31 ms.
+📖 Built Chapter_Summary.md in 50 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 272 ms.
+📖 Built Numpy_And_Pandas.ipynb in 381 ms.
+📖 Built Bond Pricing.md in 436 ms.
+📖 Built Chapter_Highlights.md in 466 ms.
+📖 Built Interacting With Jupyter Books.md in 489 ms.
+📖 Built intro.md in 509 ms.
+📖 Built myst.yml#project.parts.abstract in 410 ms.
+📚 Built 8 pages for project in 634 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 31 ms.
+📖 Built imported_functions.md in 44 ms.
+📖 Built Chapter_Summary.md in 57 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 275 ms.
+📖 Built Numpy_And_Pandas.ipynb in 370 ms.
+📖 Built Bond Pricing.md in 408 ms.
+📖 Built Chapter_Highlights.md in 434 ms.
+📖 Built Interacting With Jupyter Books.md in 463 ms.
+📖 Built intro.md in 482 ms.
+📚 Built 8 pages for project in 633 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 34 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 253 ms.
+📖 Built Numpy_And_Pandas.ipynb in 331 ms.
+📖 Built Bond Pricing.md in 363 ms.
+📖 Built Chapter_Highlights.md in 381 ms.
+📖 Built Interacting With Jupyter Books.md in 396 ms.
+📖 Built intro.md in 406 ms.
+📖 Built myst.yml#project.parts.abstract in 348 ms.
+📚 Built 8 pages for project in 526 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 81 ms.
+📖 Built imported_functions.md in 93 ms.
+📖 Built Chapter_Summary.md in 115 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 437 ms.
+📖 Built Numpy_And_Pandas.ipynb in 605 ms.
+📖 Built Bond Pricing.md in 645 ms.
+📖 Built Chapter_Highlights.md in 666 ms.
+📖 Built Interacting With Jupyter Books.md in 685 ms.
+📖 Built intro.md in 695 ms.
+📚 Built 8 pages for project in 897 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 19 ms.
+📖 Built Chapter_Summary.md in 32 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 245 ms.
+📖 Built Numpy_And_Pandas.ipynb in 386 ms.
+📖 Built Bond Pricing.md in 424 ms.
+📖 Built Chapter_Highlights.md in 448 ms.
+📖 Built Interacting With Jupyter Books.md in 470 ms.
+📖 Built intro.md in 483 ms.
+📖 Built myst.yml#project.parts.abstract in 453 ms.
+📚 Built 8 pages for project in 659 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 33 ms.
+📖 Built Chapter_Summary.md in 56 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 266 ms.
+📖 Built Numpy_And_Pandas.ipynb in 379 ms.
+📖 Built Bond Pricing.md in 498 ms.
+📖 Built Chapter_Highlights.md in 524 ms.
+📖 Built Interacting With Jupyter Books.md in 543 ms.
+📖 Built intro.md in 573 ms.
+📖 Built myst.yml#project.parts.abstract in 480 ms.
+📚 Built 8 pages for project in 1.13 s.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 23 ms.
+📖 Built Chapter_Summary.md in 40 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 494 ms.
+📖 Built Numpy_And_Pandas.ipynb in 758 ms.
+📖 Built Bond Pricing.md in 792 ms.
+📖 Built Chapter_Highlights.md in 814 ms.
+📖 Built Interacting With Jupyter Books.md in 832 ms.
+📖 Built intro.md in 844 ms.
+📖 Built myst.yml#project.parts.abstract in 774 ms.
+📚 Built 8 pages for project in 972 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 26 ms.
+📖 Built Chapter_Summary.md in 62 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 266 ms.
+📖 Built Numpy_And_Pandas.ipynb in 351 ms.
+📖 Built Bond Pricing.md in 384 ms.
+📖 Built Chapter_Highlights.md in 406 ms.
+📖 Built Interacting With Jupyter Books.md in 426 ms.
+📖 Built intro.md in 437 ms.
+📖 Built myst.yml#project.parts.abstract in 338 ms.
+📚 Built 8 pages for project in 551 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 23 ms.
+📖 Built Chapter_Summary.md in 37 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 374 ms.
+📖 Built Numpy_And_Pandas.ipynb in 476 ms.
+📖 Built Bond Pricing.md in 510 ms.
+📖 Built Chapter_Highlights.md in 529 ms.
+📖 Built Interacting With Jupyter Books.md in 544 ms.
+📖 Built intro.md in 553 ms.
+📖 Built myst.yml#project.parts.abstract in 498 ms.
+📚 Built 8 pages for project in 687 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 43 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 323 ms.
+📖 Built Numpy_And_Pandas.ipynb in 414 ms.
+📖 Built Bond Pricing.md in 457 ms.
+📖 Built Chapter_Highlights.md in 498 ms.
+📖 Built Interacting With Jupyter Books.md in 518 ms.
+📖 Built intro.md in 539 ms.
+📖 Built myst.yml#project.parts.abstract in 380 ms.
+📚 Built 8 pages for project in 682 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 38 ms.
+📖 Built Chapter_Summary.md in 100 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 285 ms.
+📖 Built Numpy_And_Pandas.ipynb in 373 ms.
+📖 Built Bond Pricing.md in 411 ms.
+📖 Built Chapter_Highlights.md in 432 ms.
+📖 Built Interacting With Jupyter Books.md in 480 ms.
+📖 Built intro.md in 504 ms.
+📖 Built myst.yml#project.parts.abstract in 366 ms.
+📚 Built 8 pages for project in 646 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 18 ms.
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 39 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 215 ms.
+📖 Built Numpy_And_Pandas.ipynb in 293 ms.
+📖 Built Bond Pricing.md in 325 ms.
+📖 Built Chapter_Highlights.md in 343 ms.
+📖 Built Interacting With Jupyter Books.md in 359 ms.
+📖 Built intro.md in 369 ms.
+📚 Built 8 pages for project in 480 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 38 ms.
+📖 Built Chapter_Summary.md in 79 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 336 ms.
+📖 Built Numpy_And_Pandas.ipynb in 444 ms.
+📖 Built Bond Pricing.md in 484 ms.
+📖 Built Chapter_Highlights.md in 512 ms.
+📖 Built Interacting With Jupyter Books.md in 547 ms.
+📖 Built intro.md in 570 ms.
+📖 Built myst.yml#project.parts.abstract in 437 ms.
+📚 Built 8 pages for project in 744 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 39 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 250 ms.
+📖 Built Numpy_And_Pandas.ipynb in 340 ms.
+📖 Built Bond Pricing.md in 380 ms.
+📖 Built Chapter_Highlights.md in 405 ms.
+📖 Built Interacting With Jupyter Books.md in 427 ms.
+📖 Built intro.md in 438 ms.
+📖 Built myst.yml#project.parts.abstract in 352 ms.
+📚 Built 8 pages for project in 592 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 89 ms.
+📖 Built Chapter_Summary.md in 105 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 354 ms.
+📖 Built Numpy_And_Pandas.ipynb in 475 ms.
+📖 Built Bond Pricing.md in 530 ms.
+📖 Built Chapter_Highlights.md in 558 ms.
+📖 Built Interacting With Jupyter Books.md in 579 ms.
+📖 Built intro.md in 600 ms.
+📖 Built myst.yml#project.parts.abstract in 427 ms.
+📚 Built 8 pages for project in 811 ms.
+💥 Triggered full site rebuild
+📖 Built Chapter_Summary.md in 45 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 288 ms.
+📖 Built Numpy_And_Pandas.ipynb in 378 ms.
+📖 Built Bond Pricing.md in 415 ms.
+📖 Built Chapter_Highlights.md in 435 ms.
+📖 Built Interacting With Jupyter Books.md in 454 ms.
+📖 Built intro.md in 469 ms.
+📖 Built imported_functions.md in 396 ms.
+📖 Built myst.yml#project.parts.abstract in 381 ms.
+📚 Built 8 pages for project in 600 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 28 ms.
+📖 Built imported_functions.md in 48 ms.
+📖 Built Chapter_Summary.md in 61 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 282 ms.
+📖 Built Numpy_And_Pandas.ipynb in 368 ms.
+📖 Built Bond Pricing.md in 401 ms.
+📖 Built Chapter_Highlights.md in 421 ms.
+📖 Built Interacting With Jupyter Books.md in 437 ms.
+📖 Built intro.md in 449 ms.
+📚 Built 8 pages for project in 566 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 95 ms.
+📖 Built Chapter_Summary.md in 121 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 416 ms.
+📖 Built Numpy_And_Pandas.ipynb in 521 ms.
+📖 Built Bond Pricing.md in 569 ms.
+📖 Built Chapter_Highlights.md in 600 ms.
+📖 Built Interacting With Jupyter Books.md in 657 ms.
+📖 Built intro.md in 672 ms.
+📖 Built myst.yml#project.parts.abstract in 521 ms.
+📚 Built 8 pages for project in 881 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 31 ms.
+📖 Built Chapter_Summary.md in 45 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 301 ms.
+📖 Built Numpy_And_Pandas.ipynb in 412 ms.
+📖 Built Bond Pricing.md in 449 ms.
+📖 Built Chapter_Highlights.md in 472 ms.
+📖 Built Interacting With Jupyter Books.md in 489 ms.
+📖 Built intro.md in 500 ms.
+📖 Built myst.yml#project.parts.abstract in 430 ms.
+📚 Built 8 pages for project in 691 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 33 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 215 ms.
+📖 Built Numpy_And_Pandas.ipynb in 297 ms.
+📖 Built Bond Pricing.md in 328 ms.
+📖 Built Chapter_Highlights.md in 347 ms.
+📖 Built Interacting With Jupyter Books.md in 362 ms.
+📖 Built intro.md in 373 ms.
+📖 Built myst.yml#project.parts.abstract in 312 ms.
+📚 Built 8 pages for project in 487 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 23 ms.
+📖 Built imported_functions.md in 33 ms.
+📖 Built Chapter_Summary.md in 45 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 230 ms.
+📖 Built Numpy_And_Pandas.ipynb in 318 ms.
+📖 Built Bond Pricing.md in 351 ms.
+📖 Built Chapter_Highlights.md in 370 ms.
+📖 Built Interacting With Jupyter Books.md in 385 ms.
+📖 Built intro.md in 394 ms.
+📚 Built 8 pages for project in 508 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 34 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 348 ms.
+📖 Built Numpy_And_Pandas.ipynb in 467 ms.
+📖 Built Bond Pricing.md in 516 ms.
+📖 Built Chapter_Highlights.md in 535 ms.
+📖 Built Interacting With Jupyter Books.md in 553 ms.
+📖 Built intro.md in 565 ms.
+📖 Built myst.yml#project.parts.abstract in 530 ms.
+📚 Built 8 pages for project in 766 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 41 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 250 ms.
+📖 Built Numpy_And_Pandas.ipynb in 329 ms.
+📖 Built Bond Pricing.md in 363 ms.
+📖 Built Chapter_Highlights.md in 382 ms.
+📖 Built Interacting With Jupyter Books.md in 398 ms.
+📖 Built intro.md in 408 ms.
+📖 Built myst.yml#project.parts.abstract in 335 ms.
+📚 Built 8 pages for project in 542 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 36 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 222 ms.
+📖 Built Numpy_And_Pandas.ipynb in 336 ms.
+📖 Built Bond Pricing.md in 371 ms.
+📖 Built Chapter_Highlights.md in 392 ms.
+📖 Built Interacting With Jupyter Books.md in 409 ms.
+📖 Built intro.md in 422 ms.
+📖 Built myst.yml#project.parts.abstract in 352 ms.
+📚 Built 8 pages for project in 544 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 38 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 231 ms.
+📖 Built Numpy_And_Pandas.ipynb in 325 ms.
+📖 Built Bond Pricing.md in 365 ms.
+📖 Built Chapter_Highlights.md in 389 ms.
+📖 Built Interacting With Jupyter Books.md in 407 ms.
+📖 Built intro.md in 418 ms.
+📖 Built myst.yml#project.parts.abstract in 335 ms.
+📚 Built 8 pages for project in 547 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 81 ms.
+📖 Built imported_functions.md in 100 ms.
+📖 Built Chapter_Summary.md in 128 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 472 ms.
+📖 Built Numpy_And_Pandas.ipynb in 590 ms.
+📖 Built Bond Pricing.md in 630 ms.
+📖 Built Chapter_Highlights.md in 654 ms.
+📖 Built Interacting With Jupyter Books.md in 673 ms.
+📖 Built intro.md in 689 ms.
+📚 Built 8 pages for project in 827 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 25 ms.
+📖 Built Chapter_Summary.md in 54 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 271 ms.
+📖 Built Numpy_And_Pandas.ipynb in 356 ms.
+📖 Built Bond Pricing.md in 393 ms.
+📖 Built Chapter_Highlights.md in 414 ms.
+📖 Built Interacting With Jupyter Books.md in 456 ms.
+📖 Built intro.md in 470 ms.
+📖 Built myst.yml#project.parts.abstract in 421 ms.
+📚 Built 8 pages for project in 623 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 37 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 239 ms.
+📖 Built Numpy_And_Pandas.ipynb in 319 ms.
+📖 Built Bond Pricing.md in 353 ms.
+📖 Built Chapter_Highlights.md in 373 ms.
+📖 Built Interacting With Jupyter Books.md in 392 ms.
+📖 Built intro.md in 404 ms.
+📖 Built myst.yml#project.parts.abstract in 327 ms.
+📚 Built 8 pages for project in 539 ms.
+💥 Triggered full site rebuild
+📖 Built Chapter_Summary.md in 109 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 369 ms.
+📖 Built Numpy_And_Pandas.ipynb in 451 ms.
+📖 Built Bond Pricing.md in 482 ms.
+📖 Built Chapter_Highlights.md in 500 ms.
+📖 Built Interacting With Jupyter Books.md in 522 ms.
+📖 Built intro.md in 533 ms.
+📖 Built imported_functions.md in 468 ms.
+📖 Built myst.yml#project.parts.abstract in 440 ms.
+📚 Built 8 pages for project in 662 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 43 ms.
+📖 Built Chapter_Summary.md in 69 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 267 ms.
+📖 Built Numpy_And_Pandas.ipynb in 359 ms.
+📖 Built Bond Pricing.md in 400 ms.
+📖 Built Chapter_Highlights.md in 420 ms.
+📖 Built Interacting With Jupyter Books.md in 451 ms.
+📖 Built intro.md in 462 ms.
+📖 Built myst.yml#project.parts.abstract in 350 ms.
+📚 Built 8 pages for project in 584 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 203 ms.
+📖 Built imported_functions.md in 214 ms.
+📖 Built Chapter_Summary.md in 230 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 419 ms.
+📖 Built Numpy_And_Pandas.ipynb in 512 ms.
+📖 Built Bond Pricing.md in 549 ms.
+📖 Built Chapter_Highlights.md in 571 ms.
+📖 Built Interacting With Jupyter Books.md in 588 ms.
+📖 Built intro.md in 598 ms.
+📚 Built 8 pages for project in 710 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 32 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 236 ms.
+📖 Built Numpy_And_Pandas.ipynb in 333 ms.
+📖 Built Bond Pricing.md in 371 ms.
+📖 Built Chapter_Highlights.md in 394 ms.
+📖 Built Interacting With Jupyter Books.md in 417 ms.
+📖 Built intro.md in 438 ms.
+📖 Built myst.yml#project.parts.abstract in 358 ms.
+📚 Built 8 pages for project in 625 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 24 ms.
+📖 Built Chapter_Summary.md in 37 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 823 ms.
+📖 Built Numpy_And_Pandas.ipynb in 990 ms.
+📖 Built Bond Pricing.md in 1.02 s.
+📖 Built Chapter_Highlights.md in 1.04 s.
+📖 Built Interacting With Jupyter Books.md in 1.06 s.
+📖 Built intro.md in 1.07 s.
+📖 Built myst.yml#project.parts.abstract in 1.3 s.
+📚 Built 8 pages for project in 1.53 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 32 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 460 ms.
+📖 Built Numpy_And_Pandas.ipynb in 571 ms.
+📖 Built Bond Pricing.md in 603 ms.
+📖 Built Chapter_Highlights.md in 623 ms.
+📖 Built Interacting With Jupyter Books.md in 640 ms.
+📖 Built intro.md in 652 ms.
+📖 Built myst.yml#project.parts.abstract in 581 ms.
+📚 Built 8 pages for project in 1.49 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 26 ms.
+📖 Built Chapter_Summary.md in 40 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 269 ms.
+📖 Built Numpy_And_Pandas.ipynb in 395 ms.
+📖 Built Bond Pricing.md in 428 ms.
+📖 Built Chapter_Highlights.md in 449 ms.
+📖 Built Interacting With Jupyter Books.md in 468 ms.
+📖 Built intro.md in 479 ms.
+📖 Built myst.yml#project.parts.abstract in 407 ms.
+📚 Built 8 pages for project in 629 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 302 ms.
+📖 Built Chapter_Summary.md in 318 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 501 ms.
+📖 Built Numpy_And_Pandas.ipynb in 976 ms.
+📖 Built Bond Pricing.md in 1.22 s.
+📖 Built Chapter_Highlights.md in 1.27 s.
+📖 Built Interacting With Jupyter Books.md in 1.31 s.
+📖 Built intro.md in 1.32 s.
+📖 Built myst.yml#project.parts.abstract in 1.22 s.
+📚 Built 8 pages for project in 1.53 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 25 ms.
+📖 Built Chapter_Summary.md in 38 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 317 ms.
+📖 Built Numpy_And_Pandas.ipynb in 1.08 s.
+📖 Built Bond Pricing.md in 1.13 s.
+📖 Built Chapter_Highlights.md in 1.16 s.
+📖 Built Interacting With Jupyter Books.md in 1.75 s.
+📖 Built intro.md in 1.76 s.
+📖 Built myst.yml#project.parts.abstract in 1.04 s.
+📚 Built 8 pages for project in 1.98 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 93 ms.
+📖 Built Chapter_Summary.md in 180 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 1.7 s.
+📖 Built Numpy_And_Pandas.ipynb in 1.78 s.
+📖 Built Bond Pricing.md in 1.82 s.
+📖 Built Chapter_Highlights.md in 1.84 s.
+📖 Built Interacting With Jupyter Books.md in 1.86 s.
+📖 Built intro.md in 1.87 s.
+📖 Built myst.yml#project.parts.abstract in 2.18 s.
+📚 Built 8 pages for project in 2.88 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 35 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 231 ms.
+📖 Built Numpy_And_Pandas.ipynb in 310 ms.
+📖 Built Bond Pricing.md in 343 ms.
+📖 Built Chapter_Highlights.md in 361 ms.
+📖 Built Interacting With Jupyter Books.md in 378 ms.
+📖 Built intro.md in 389 ms.
+📖 Built myst.yml#project.parts.abstract in 328 ms.
+📚 Built 8 pages for project in 525 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 37 ms.
+📖 Built Chapter_Summary.md in 55 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 302 ms.
+📖 Built Numpy_And_Pandas.ipynb in 422 ms.
+📖 Built Bond Pricing.md in 523 ms.
+📖 Built Chapter_Highlights.md in 543 ms.
+📖 Built Interacting With Jupyter Books.md in 562 ms.
+📖 Built intro.md in 571 ms.
+📖 Built myst.yml#project.parts.abstract in 503 ms.
+📚 Built 8 pages for project in 719 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 26 ms.
+📖 Built Chapter_Summary.md in 38 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 288 ms.
+📖 Built Numpy_And_Pandas.ipynb in 377 ms.
+📖 Built Bond Pricing.md in 413 ms.
+📖 Built Chapter_Highlights.md in 431 ms.
+📖 Built Interacting With Jupyter Books.md in 451 ms.
+📖 Built intro.md in 473 ms.
+📖 Built myst.yml#project.parts.abstract in 391 ms.
+📚 Built 8 pages for project in 623 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 31 ms.
+📖 Built Chapter_Summary.md in 44 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 234 ms.
+📖 Built Numpy_And_Pandas.ipynb in 323 ms.
+📖 Built Bond Pricing.md in 360 ms.
+📖 Built Chapter_Highlights.md in 380 ms.
+📖 Built Interacting With Jupyter Books.md in 400 ms.
+📖 Built intro.md in 412 ms.
+📖 Built myst.yml#project.parts.abstract in 347 ms.
+📚 Built 8 pages for project in 544 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 30 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 220 ms.
+📖 Built Numpy_And_Pandas.ipynb in 305 ms.
+📖 Built Bond Pricing.md in 343 ms.
+📖 Built Chapter_Highlights.md in 361 ms.
+📖 Built Interacting With Jupyter Books.md in 393 ms.
+📖 Built intro.md in 404 ms.
+📖 Built myst.yml#project.parts.abstract in 345 ms.
+📚 Built 8 pages for project in 581 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 33 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 223 ms.
+📖 Built Numpy_And_Pandas.ipynb in 297 ms.
+📖 Built Bond Pricing.md in 329 ms.
+📖 Built Chapter_Highlights.md in 349 ms.
+📖 Built Interacting With Jupyter Books.md in 366 ms.
+📖 Built intro.md in 376 ms.
+📖 Built myst.yml#project.parts.abstract in 320 ms.
+📚 Built 8 pages for project in 628 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 28 ms.
+📖 Built Chapter_Summary.md in 39 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 229 ms.
+📖 Built Numpy_And_Pandas.ipynb in 311 ms.
+📖 Built Bond Pricing.md in 347 ms.
+📖 Built Chapter_Highlights.md in 367 ms.
+📖 Built Interacting With Jupyter Books.md in 385 ms.
+📖 Built intro.md in 396 ms.
+📖 Built myst.yml#project.parts.abstract in 326 ms.
+📚 Built 8 pages for project in 546 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 34 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 221 ms.
+📖 Built Numpy_And_Pandas.ipynb in 294 ms.
+📖 Built Bond Pricing.md in 326 ms.
+📖 Built Chapter_Highlights.md in 346 ms.
+📖 Built Interacting With Jupyter Books.md in 361 ms.
+📖 Built intro.md in 371 ms.
+📖 Built myst.yml#project.parts.abstract in 314 ms.
+📚 Built 8 pages for project in 835 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 39 ms.
+📖 Built Chapter_Summary.md in 52 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 293 ms.
+📖 Built Numpy_And_Pandas.ipynb in 391 ms.
+📖 Built Bond Pricing.md in 434 ms.
+📖 Built Chapter_Highlights.md in 477 ms.
+📖 Built Interacting With Jupyter Books.md in 498 ms.
+📖 Built intro.md in 510 ms.
+📖 Built myst.yml#project.parts.abstract in 368 ms.
+📚 Built 8 pages for project in 660 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 33 ms.
+📖 Built Chapter_Summary.md in 47 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 232 ms.
+📖 Built Numpy_And_Pandas.ipynb in 318 ms.
+📖 Built Bond Pricing.md in 352 ms.
+📖 Built Chapter_Highlights.md in 385 ms.
+📖 Built Interacting With Jupyter Books.md in 405 ms.
+📖 Built intro.md in 417 ms.
+📖 Built myst.yml#project.parts.abstract in 584 ms.
+📚 Built 8 pages for project in 765 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 19 ms.
+📖 Built Chapter_Summary.md in 30 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 212 ms.
+📖 Built Numpy_And_Pandas.ipynb in 287 ms.
+📖 Built Bond Pricing.md in 319 ms.
+📖 Built Chapter_Highlights.md in 337 ms.
+📖 Built Interacting With Jupyter Books.md in 354 ms.
+📖 Built intro.md in 372 ms.
+📖 Built myst.yml#project.parts.abstract in 312 ms.
+📚 Built 8 pages for project in 495 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 22 ms.
+📖 Built Chapter_Summary.md in 33 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 218 ms.
+📖 Built Numpy_And_Pandas.ipynb in 291 ms.
+📖 Built Bond Pricing.md in 324 ms.
+📖 Built Chapter_Highlights.md in 343 ms.
+📖 Built Interacting With Jupyter Books.md in 358 ms.
+📖 Built intro.md in 367 ms.
+📖 Built myst.yml#project.parts.abstract in 309 ms.
+📚 Built 8 pages for project in 499 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 32 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 215 ms.
+📖 Built Numpy_And_Pandas.ipynb in 287 ms.
+📖 Built Bond Pricing.md in 319 ms.
+📖 Built Chapter_Highlights.md in 338 ms.
+📖 Built Interacting With Jupyter Books.md in 353 ms.
+📖 Built intro.md in 362 ms.
+📖 Built myst.yml#project.parts.abstract in 308 ms.
+📚 Built 8 pages for project in 488 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 31 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 207 ms.
+📖 Built Numpy_And_Pandas.ipynb in 288 ms.
+📖 Built Bond Pricing.md in 319 ms.
+📖 Built Chapter_Highlights.md in 337 ms.
+📖 Built Interacting With Jupyter Books.md in 353 ms.
+📖 Built intro.md in 363 ms.
+📖 Built myst.yml#project.parts.abstract in 308 ms.
+📚 Built 8 pages for project in 585 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 33 ms.
+📖 Built Chapter_Summary.md in 48 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 226 ms.
+📖 Built Numpy_And_Pandas.ipynb in 309 ms.
+📖 Built Bond Pricing.md in 347 ms.
+📖 Built Chapter_Highlights.md in 370 ms.
+📖 Built Interacting With Jupyter Books.md in 387 ms.
+📖 Built intro.md in 397 ms.
+📖 Built myst.yml#project.parts.abstract in 333 ms.
+📚 Built 8 pages for project in 528 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 27 ms.
+📖 Built Chapter_Summary.md in 39 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 235 ms.
+📖 Built Numpy_And_Pandas.ipynb in 320 ms.
+📖 Built Bond Pricing.md in 353 ms.
+📖 Built Chapter_Highlights.md in 373 ms.
+📖 Built Interacting With Jupyter Books.md in 390 ms.
+📖 Built intro.md in 412 ms.
+📖 Built myst.yml#project.parts.abstract in 348 ms.
+📚 Built 8 pages for project in 566 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 25 ms.
+📖 Built Chapter_Summary.md in 37 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 225 ms.
+📖 Built Numpy_And_Pandas.ipynb in 305 ms.
+📖 Built Bond Pricing.md in 380 ms.
+📖 Built Chapter_Highlights.md in 404 ms.
+📖 Built Interacting With Jupyter Books.md in 420 ms.
+📖 Built intro.md in 430 ms.
+📖 Built myst.yml#project.parts.abstract in 370 ms.
+📚 Built 8 pages for project in 642 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 37 ms.
+📖 Built Chapter_Summary.md in 52 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 252 ms.
+📖 Built Numpy_And_Pandas.ipynb in 336 ms.
+📖 Built Bond Pricing.md in 374 ms.
+📖 Built Chapter_Highlights.md in 397 ms.
+📖 Built Interacting With Jupyter Books.md in 416 ms.
+📖 Built intro.md in 428 ms.
+📖 Built myst.yml#project.parts.abstract in 350 ms.
+📚 Built 8 pages for project in 585 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 21 ms.
+📖 Built Chapter_Summary.md in 34 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 236 ms.
+📖 Built Numpy_And_Pandas.ipynb in 343 ms.
+📖 Built Bond Pricing.md in 382 ms.
+📖 Built Chapter_Highlights.md in 404 ms.
+📖 Built Interacting With Jupyter Books.md in 421 ms.
+📖 Built intro.md in 432 ms.
+📖 Built myst.yml#project.parts.abstract in 373 ms.
+📚 Built 8 pages for project in 623 ms.
+💥 Triggered full site rebuild
+📖 Built myst.yml#project.parts.abstract in 28 ms.
+📖 Built imported_functions.md in 47 ms.
+📖 Built Chapter_Summary.md in 61 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 279 ms.
+📖 Built Numpy_And_Pandas.ipynb in 386 ms.
+📖 Built Bond Pricing.md in 434 ms.
+📖 Built Chapter_Highlights.md in 458 ms.
+📖 Built Interacting With Jupyter Books.md in 479 ms.
+📖 Built intro.md in 491 ms.
+📚 Built 8 pages for project in 631 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 20 ms.
+📖 Built Chapter_Summary.md in 31 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 213 ms.
+📖 Built Numpy_And_Pandas.ipynb in 287 ms.
+📖 Built Bond Pricing.md in 323 ms.
+📖 Built Chapter_Highlights.md in 344 ms.
+📖 Built Interacting With Jupyter Books.md in 365 ms.
+📖 Built intro.md in 376 ms.
+📖 Built myst.yml#project.parts.abstract in 331 ms.
+📚 Built 8 pages for project in 550 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 24 ms.
+📖 Built Chapter_Summary.md in 41 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 245 ms.
+📖 Built Numpy_And_Pandas.ipynb in 324 ms.
+📖 Built Bond Pricing.md in 364 ms.
+📖 Built Chapter_Highlights.md in 387 ms.
+📖 Built Interacting With Jupyter Books.md in 420 ms.
+📖 Built intro.md in 434 ms.
+📖 Built myst.yml#project.parts.abstract in 339 ms.
+📚 Built 8 pages for project in 586 ms.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 32 ms.
+📖 Built Chapter_Summary.md in 45 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 238 ms.
+📖 Built Numpy_And_Pandas.ipynb in 327 ms.
+📖 Built Bond Pricing.md in 361 ms.
+📖 Built Chapter_Highlights.md in 384 ms.
+📖 Built Interacting With Jupyter Books.md in 402 ms.
+📖 Built intro.md in 414 ms.
+📖 Built myst.yml#project.parts.abstract in 338 ms.
+📚 Built 8 pages for project in 535 ms.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 39 ms.
+📖 Built Chapter_Summary.md in 52 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 307 ms.
+📖 Built Numpy_And_Pandas.ipynb in 418 ms.
+📖 Built Bond Pricing.md in 466 ms.
+📖 Built Chapter_Highlights.md in 488 ms.
+📖 Built Interacting With Jupyter Books.md in 510 ms.
+📖 Built intro.md in 521 ms.
+📖 Built myst.yml#project.parts.abstract in 428 ms.
+📚 Built 8 pages for project in 650 ms.
+💥 Triggered full project load and site rebuild
+📖 Built Chapter_Summary.md in 38 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 230 ms.
+📖 Built Numpy_And_Pandas.ipynb in 632 ms.
+📖 Built Bond Pricing.md in 683 ms.
+📖 Built Chapter_Highlights.md in 709 ms.
+📖 Built Interacting With Jupyter Books.md in 727 ms.
+📖 Built intro.md in 747 ms.
+📖 Built imported_functions.md in 896 ms.
+📖 Built myst.yml#project.parts.abstract in 888 ms.
+📚 Built 8 pages for project in 1.13 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 42 ms.
+📖 Built Chapter_Summary.md in 70 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 279 ms.
+📖 Built Numpy_And_Pandas.ipynb in 664 ms.
+📖 Built Bond Pricing.md in 1.01 s.
+📖 Built Chapter_Highlights.md in 1.18 s.
+📖 Built Interacting With Jupyter Books.md in 1.2 s.
+📖 Built intro.md in 1.22 s.
+📖 Built myst.yml#project.parts.abstract in 1.11 s.
+📚 Built 8 pages for project in 1.68 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 127 ms.
+📖 Built Chapter_Summary.md in 147 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 869 ms.
+📖 Built Bond Pricing.md in 1.88 s.
+📖 Built Chapter_Highlights.md in 1.9 s.
+📖 Built Interacting With Jupyter Books.md in 1.92 s.
+📖 Built intro.md in 1.93 s.
+📖 Built Numpy_And_Pandas.ipynb in 1.72 s.
+📖 Built myst.yml#project.parts.abstract in 1.46 s.
+📚 Built 8 pages for project in 3.47 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 995 ms.
+📖 Built Chapter_Summary.md in 1.14 s.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 2.36 s.
+📖 Built Numpy_And_Pandas.ipynb in 2.46 s.
+📖 Built Bond Pricing.md in 2.65 s.
+📖 Built Chapter_Highlights.md in 2.67 s.
+📖 Built Interacting With Jupyter Books.md in 2.68 s.
+📖 Built intro.md in 2.7 s.
+📖 Built myst.yml#project.parts.abstract in 2.34 s.
+📚 Built 8 pages for project in 3.27 s.
+💥 Triggered full project load and site rebuild
+📖 Built imported_functions.md in 34 ms.
+📖 Built Chapter_Summary.md in 46 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 812 ms.
+📖 Built Numpy_And_Pandas.ipynb in 1.07 s.
+📖 Built Bond Pricing.md in 1.11 s.
+📖 Built Chapter_Highlights.md in 1.14 s.
+📖 Built Interacting With Jupyter Books.md in 1.15 s.
+📖 Built intro.md in 1.16 s.
+📖 Built myst.yml#project.parts.abstract in 1.09 s.
+📚 Built 8 pages for project in 1.31 s.
+💥 Triggered full site rebuild
+📖 Built imported_functions.md in 760 ms.
+📖 Built Chapter_Summary.md in 777 ms.
+📖 Built Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb in 967 ms.
+📖 Built Numpy_And_Pandas.ipynb in 1.67 s.
+📖 Built Bond Pricing.md in 1.71 s.
+📖 Built Chapter_Highlights.md in 1.73 s.
+📖 Built Interacting With Jupyter Books.md in 2.75 s.
+📖 Built intro.md in 3.03 s.
+📖 Built myst.yml#project.parts.abstract in 1.27 s.
