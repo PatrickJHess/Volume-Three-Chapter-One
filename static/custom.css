@@ -50,6 +50,10 @@ header a[href*="github.com/PatrickJHess"],
 .navbar a[href*="github.com/PatrickJHess"] {
     display: none !important;
 }
+/* Hide the GitHub repo icon and the "Edit this page" button */
+a[href*="github.com/PatrickJHess"] {
+    display: none !important;
+}
 /* Target the button by its ARIA label or Title attribute
 [aria-label*="Launch"],
 [aria-label*="interactive"],
@@ -123,7 +127,7 @@ div.thebe-output-area pre {
     background-color: #005a9e !important;
 }
 
-/* Optional: Hide the confusing built-in Rocket menu completely
+/* Optional: Hide the confusing built-in Rocket menu completely*/
 [aria-label*="Launch"], [title*="Launch"] {
     display: none !important;
-}*/
+}

@@ -67,6 +67,7 @@ project:
     provider: github
     repo: PatrickJHess/Volume-Three-Chapter-One
     ref: master
+    interface: classic
   jupyter:
     binder:
       url: https://mybinder.org

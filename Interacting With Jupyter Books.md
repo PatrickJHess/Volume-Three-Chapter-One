@@ -23,9 +23,9 @@ There are three interactive options for notebook documents:
 | **Live Code** | Requires a Binder launch and is ideal for demonstrations. | Run code in existing cells, and alter code in existing cells. | You cannot add cells or save results in this mode. |
 
 
-**The start button <span style="color: #5f6368; font-size: 1.1em; vertical-align: middle;">⏻</span> in a notebook page allows you to execute the code inside the page or launch the notebook with Jupyter Lab inside binder**
+**The start button <span style="color: #5f6368; font-size: 1.1em; vertical-align: middle;">⏻</span> in a notebook page allows you to execute the code live inside the HTML page.**
 
-**The rocket icon allows you to specify a binder hub and run the code in that hub.  Unless you have you have access to a binder hub, ignore the icon.**
+**The first cell in each notebook includes options to open in Colab or with Jupyter Lab in Binder.**
 
 Additional Interactive Feature
 
