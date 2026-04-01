@@ -1,1 +1,1 @@
-import{c as e}from"Volume-Three-Chapter-One/build/_shared/chunk-OZE3FFNP.js";var n=e((l,t)=>{function a(i){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}t.exports=a});export default n();
+import{c as e}from"/Vol-3-Chap-1/build/_shared/chunk-OZE3FFNP.js";var n=e((l,t)=>{function a(i){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}t.exports=a});export default n();

@@ -1,1 +1,1 @@
-import{a}from"Volume-Three-Chapter-One/build/_shared/chunk-JRVCZGCT.js";import"Volume-Three-Chapter-One/build/_shared/chunk-QQNNMZV3.js";import"Volume-Three-Chapter-One/build/_shared/chunk-XK3K4AT7.js";import"Volume-Three-Chapter-One/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/Vol-3-Chap-1/build/_shared/chunk-JRVCZGCT.js";import"/Vol-3-Chap-1/build/_shared/chunk-QQNNMZV3.js";import"/Vol-3-Chap-1/build/_shared/chunk-XK3K4AT7.js";import"/Vol-3-Chap-1/build/_shared/chunk-OZE3FFNP.js";export default a();
