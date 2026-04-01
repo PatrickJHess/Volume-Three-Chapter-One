@@ -40,9 +40,7 @@ This chapter's examples and discussions rely on the **Pandas** and **NumPy** lib
 4. *Python, Pandas, NumPy, and Financial Insights* summarizes the financial concepts and results.
 5. *Functions Imported by the Chapter* describes the functions imported from DropBox (*module_basic_concepts_fixed_income*).
 
-<a href="https://mybinder.org/v2/gh/PatrickJHess/Vol-3-Chap-1/master?urlpath=lab/tree/notebooks/" class="myst-launch-button" target="_blank">
-  🚀 Launch Chapter Notebooks
-</a>
+
 
 
 

@@ -10,17 +10,22 @@ This and other chapters of *Basic Concepts of Fixed Income*, contain two types o
    * HTML Representations of Jupyter notebooks.
    * Can be downloaded as a notebook (*.ipynb*) or a PDF file (*.pdf*). 
    * Have interactive capabilities.  
-   * In a notebook like *Calculating and Graphing the Term Structure of Interest Rates*, icons are available in the upper-right corner for launching and downloading the notebook.
+   * A notebook can be run inside the HTML file or in binder with Jupyter Lab.
 
 Notebook Launch Options
 
-The launch icon provides three interactive options for notebook documents:
+There are three interactive options for notebook documents:
 
 | Option | Description | Interactive Features | Note |
 | ----- | ----- | ----- | ----- |
 | **Binder** | Launches in a new browser tab (typically within a minute) and runs remotely. Supports up to 100 simultaneous users. | Execute existing cells, add or modify cells, and download the notebook. | The notebook will not be saved or available if saved in this mode. |
 | **Colab** | Offers the quickest and easiest access, not requiring Binder. A Google Drive is unnecessary for launching. | Execute cells or make a copy. | You must sign in to a Google account to execute cells or make a copy. You can download the notebook without signing into a Google account. |
 | **Live Code** | Requires a Binder launch and is ideal for demonstrations. | Run code in existing cells, and alter code in existing cells. | You cannot add cells or save results in this mode. |
+
+
+**The start button <span style="color: #5f6368; font-size: 1.1em; vertical-align: middle;">⏻</span> in a notebook page allows you to execute the code inside the page or launch the notebook with Jupyter Lab inside binder**
+
+**The rocket icon allows you to specify a binder hub and run the code in that hub.  Unless you have you have access to a binder hub, ignore the icon.**
 
 Additional Interactive Feature
 

@@ -44,8 +44,13 @@ a[target^="_blank_"]:hover::after {
         display: none;
     }
 }
-
-/* Target the button by its ARIA label or Title attribute*/
+/* Hide the GitHub repository button from the top navigation bar */
+header a[href*="github.com/PatrickJHess"], 
+.article-header-buttons a[href*="github.com/PatrickJHess"],
+.navbar a[href*="github.com/PatrickJHess"] {
+    display: none !important;
+}
+/* Target the button by its ARIA label or Title attribute
 [aria-label*="Launch"],
 [aria-label*="interactive"],
 [title*="Launch"],
@@ -58,7 +63,7 @@ a[target^="_blank_"]:hover::after {
     padding: 0 !important;
     margin: 0 !important;
 }
-
+*/
 /* 1. Target the root variables if the theme uses them */
 :root {
     --pst-color-inline-code-bg: #f8f9fa !important;
@@ -101,7 +106,7 @@ div.thebe-output-area pre {
     color: white !important;
     border-radius: 4px !important;
 }
-/* Turns your text link into a beautiful blue button */
+/* Turns your text link into a beautiful blue button*/
 .myst-launch-button {
     display: inline-block;
     background-color: #0078d4 !important;
@@ -118,7 +123,7 @@ div.thebe-output-area pre {
     background-color: #005a9e !important;
 }
 
-/* Optional: Hide the confusing built-in Rocket menu completely */
+/* Optional: Hide the confusing built-in Rocket menu completely
 [aria-label*="Launch"], [title*="Launch"] {
     display: none !important;
-}
+}*/
