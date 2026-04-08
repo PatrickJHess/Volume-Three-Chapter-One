@@ -23,7 +23,7 @@ There are three interactive options for notebook documents:
 | **Live Code** | Requires a Binder launch and is ideal for demonstrations. | Run code in existing cells, and alter code in existing cells. | You cannot add cells or save results in this mode. |
 
 
-**The start button** ![start](start-button.svg) **in a notebook page allows you to execute the code live inside the HTML page.**
+**The start button** <img src="./start-button.svg" alt="start" style="height: 1.1em; display: inline-block; vertical-align: middle;"> **in a notebook page allows you to execute the code live inside the HTML page.**
 
 **in a notebook page allows you to execute the code live inside the HTML page.**
 
