@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ada.js
 var require_ada = __commonJS({
@@ -35,4 +35,4 @@ var require_ada = __commonJS({
 export {
   require_ada
 };
-//# sourceMappingURL=/build/_shared/chunk-MZEG4T3Z.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-MZEG4T3Z.js.map

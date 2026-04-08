@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/prolog.js
 var require_prolog = __commonJS({
@@ -88,4 +88,4 @@ var require_prolog = __commonJS({
   }
 });
 export default require_prolog();
-//# sourceMappingURL=/build/_shared/prolog-AN5OSMMS.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/prolog-AN5OSMMS.js.map

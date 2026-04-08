@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/mscgen.js
 function mkParser(lang) {
@@ -144,4 +144,4 @@ export {
   msgenny,
   xu
 };
-//# sourceMappingURL=/build/_shared/mscgen-THHJWJYB.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/mscgen-THHJWJYB.js.map

@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/shell.js
 function define(style, dict) {
@@ -237,4 +237,4 @@ init_shell();
 export {
   shell
 };
-//# sourceMappingURL=/build/_shared/shell-6Q7LSBBH.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/shell-6Q7LSBBH.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/color-name/index.js
 var require_color_name = __commonJS({
@@ -387,4 +387,4 @@ export {
   require_color_name,
   require_color_string
 };
-//# sourceMappingURL=/build/_shared/chunk-VF3UZM2T.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-VF3UZM2T.js.map

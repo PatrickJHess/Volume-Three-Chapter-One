@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/go-module.js
 var require_go_module = __commonJS({
@@ -38,4 +38,4 @@ var require_go_module = __commonJS({
 export {
   require_go_module
 };
-//# sourceMappingURL=/build/_shared/chunk-3ZXHBYKZ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-3ZXHBYKZ.js.map

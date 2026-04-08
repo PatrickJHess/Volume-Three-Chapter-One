@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/reason.js
 var require_reason = __commonJS({
@@ -39,4 +39,4 @@ var require_reason = __commonJS({
 export {
   require_reason
 };
-//# sourceMappingURL=/build/_shared/chunk-AFHIGBKQ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-AFHIGBKQ.js.map

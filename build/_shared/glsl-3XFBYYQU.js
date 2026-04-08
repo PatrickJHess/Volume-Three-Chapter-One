@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/glsl.js
 var require_glsl = __commonJS({
@@ -37,4 +37,4 @@ var require_glsl = __commonJS({
   }
 });
 export default require_glsl();
-//# sourceMappingURL=/build/_shared/glsl-3XFBYYQU.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/glsl-3XFBYYQU.js.map

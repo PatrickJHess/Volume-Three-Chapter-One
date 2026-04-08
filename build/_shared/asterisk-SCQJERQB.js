@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/asterisk.js
 function basicToken(stream, state) {
@@ -361,4 +361,4 @@ init_asterisk();
 export {
   asterisk
 };
-//# sourceMappingURL=/build/_shared/asterisk-SCQJERQB.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/asterisk-SCQJERQB.js.map

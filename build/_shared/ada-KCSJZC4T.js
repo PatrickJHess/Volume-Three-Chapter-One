@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/ada.js
 var require_ada = __commonJS({
@@ -151,4 +151,4 @@ var require_ada = __commonJS({
   }
 });
 export default require_ada();
-//# sourceMappingURL=/build/_shared/ada-KCSJZC4T.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ada-KCSJZC4T.js.map

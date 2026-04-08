@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/stan.js
 var require_stan = __commonJS({
@@ -71,4 +71,4 @@ var require_stan = __commonJS({
 export {
   require_stan
 };
-//# sourceMappingURL=/build/_shared/chunk-A4KD4W2M.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-A4KD4W2M.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/pony.js
 var require_pony = __commonJS({
@@ -63,4 +63,4 @@ var require_pony = __commonJS({
   }
 });
 export default require_pony();
-//# sourceMappingURL=/build/_shared/pony-Z7Z5LQGS.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/pony-Z7Z5LQGS.js.map

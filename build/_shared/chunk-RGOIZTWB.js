@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/oz.js
 var require_oz = __commonJS({
@@ -44,4 +44,4 @@ var require_oz = __commonJS({
 export {
   require_oz
 };
-//# sourceMappingURL=/build/_shared/chunk-RGOIZTWB.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-RGOIZTWB.js.map

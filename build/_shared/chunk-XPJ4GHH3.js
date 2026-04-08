@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/lolcode.js
 var require_lolcode = __commonJS({
@@ -64,4 +64,4 @@ var require_lolcode = __commonJS({
 export {
   require_lolcode
 };
-//# sourceMappingURL=/build/_shared/chunk-XPJ4GHH3.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-XPJ4GHH3.js.map

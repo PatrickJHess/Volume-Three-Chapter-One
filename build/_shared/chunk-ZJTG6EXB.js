@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/openqasm.js
 var require_openqasm = __commonJS({
@@ -34,4 +34,4 @@ var require_openqasm = __commonJS({
 export {
   require_openqasm
 };
-//# sourceMappingURL=/build/_shared/chunk-ZJTG6EXB.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-ZJTG6EXB.js.map

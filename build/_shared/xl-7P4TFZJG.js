@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/xl.js
 var require_xl = __commonJS({
@@ -75,4 +75,4 @@ var require_xl = __commonJS({
   }
 });
 export default require_xl();
-//# sourceMappingURL=/build/_shared/xl-7P4TFZJG.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/xl-7P4TFZJG.js.map

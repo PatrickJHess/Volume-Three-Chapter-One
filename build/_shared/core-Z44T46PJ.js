@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/core.js
 var require_core = __commonJS({
@@ -1851,4 +1851,4 @@ var require_core2 = __commonJS({
   }
 });
 export default require_core2();
-//# sourceMappingURL=/build/_shared/core-Z44T46PJ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/core-Z44T46PJ.js.map

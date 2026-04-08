@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/step21.js
 var require_step21 = __commonJS({
@@ -66,4 +66,4 @@ var require_step21 = __commonJS({
   }
 });
 export default require_step21();
-//# sourceMappingURL=/build/_shared/step21-KBGFBN2Z.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/step21-KBGFBN2Z.js.map

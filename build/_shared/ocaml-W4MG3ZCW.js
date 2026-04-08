@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/ocaml.js
 var require_ocaml = __commonJS({
@@ -72,4 +72,4 @@ var require_ocaml = __commonJS({
   }
 });
 export default require_ocaml();
-//# sourceMappingURL=/build/_shared/ocaml-W4MG3ZCW.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ocaml-W4MG3ZCW.js.map

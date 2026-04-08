@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/naniscript.js
 var require_naniscript = __commonJS({
@@ -165,4 +165,4 @@ var require_naniscript = __commonJS({
 export {
   require_naniscript
 };
-//# sourceMappingURL=/build/_shared/chunk-RWR7OORS.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-RWR7OORS.js.map

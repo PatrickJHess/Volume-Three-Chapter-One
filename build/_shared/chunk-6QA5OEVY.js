@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/kotlin.js
 var require_kotlin = __commonJS({
@@ -98,4 +98,4 @@ var require_kotlin = __commonJS({
 export {
   require_kotlin
 };
-//# sourceMappingURL=/build/_shared/chunk-6QA5OEVY.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-6QA5OEVY.js.map

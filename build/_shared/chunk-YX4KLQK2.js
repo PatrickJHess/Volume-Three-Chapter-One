@@ -1,11 +1,11 @@
 import {
   VFile,
   require_is_buffer
-} from "/build/_shared/chunk-MWXHQG25.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-MWXHQG25.js";
 import {
   __commonJS,
   __toESM
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/extend/index.js
 var require_extend = __commonJS({
@@ -511,4 +511,4 @@ export {
   require_extend,
   unified
 };
-//# sourceMappingURL=/build/_shared/chunk-YX4KLQK2.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-YX4KLQK2.js.map

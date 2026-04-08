@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/scss.js
 var require_scss = __commonJS({
@@ -549,4 +549,4 @@ var require_scss = __commonJS({
   }
 });
 export default require_scss();
-//# sourceMappingURL=/build/_shared/scss-G2SOKEMP.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/scss-G2SOKEMP.js.map

@@ -3,23 +3,23 @@ import {
   insertEdgeLabel,
   markers_default,
   positionEdgeLabel
-} from "/build/_shared/chunk-QZO55VED.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-QZO55VED.js";
 import {
   insertCluster,
   insertNode,
   labelHelper
-} from "/build/_shared/chunk-WP6UWRBG.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-WP6UWRBG.js";
 import {
   interpolateToCurve
-} from "/build/_shared/chunk-WEDXSMQA.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-WEDXSMQA.js";
 import {
   common_default,
   getConfig
-} from "/build/_shared/chunk-463FZTZ7.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log
-} from "/build/_shared/chunk-7PDOACA3.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-N4CR4FBY.mjs
 var internalHelpers = {
@@ -45,12 +45,12 @@ var registerDefaultLayoutLoaders = /* @__PURE__ */ __name(() => {
   registerLayoutLoaders([
     {
       name: "dagre",
-      loader: /* @__PURE__ */ __name(async () => await import("/build/_shared/dagre-6UL2VRFP-Z5LQKEJI.js"), "loader")
+      loader: /* @__PURE__ */ __name(async () => await import("/Volume-Three-Chapter-One//build/_shared/dagre-6UL2VRFP-Z5LQKEJI.js"), "loader")
     },
     ...true ? [
       {
         name: "cose-bilkent",
-        loader: /* @__PURE__ */ __name(async () => await import("/build/_shared/cose-bilkent-S5V4N54A-ATQLGFTK.js"), "loader")
+        loader: /* @__PURE__ */ __name(async () => await import("/Volume-Three-Chapter-One//build/_shared/cose-bilkent-S5V4N54A-ATQLGFTK.js"), "loader")
       }
     ] : []
   ]);
@@ -82,4 +82,4 @@ export {
   render,
   getRegisteredLayoutAlgorithm
 };
-//# sourceMappingURL=/build/_shared/chunk-QDIBAP63.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-QDIBAP63.js.map

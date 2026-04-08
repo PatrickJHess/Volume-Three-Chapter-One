@@ -1,9 +1,9 @@
 import {
   require_php
-} from "/build/_shared/chunk-3VZHJCWL.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-3VZHJCWL.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/php-extras.js
 var require_php_extras = __commonJS({
@@ -35,4 +35,4 @@ var require_php_extras = __commonJS({
 export {
   require_php_extras
 };
-//# sourceMappingURL=/build/_shared/chunk-53ERXY2A.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-53ERXY2A.js.map

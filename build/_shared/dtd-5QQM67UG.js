@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/dtd.js
 function ret(style, tp) {
@@ -142,4 +142,4 @@ init_dtd();
 export {
   dtd
 };
-//# sourceMappingURL=/build/_shared/dtd-5QQM67UG.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dtd-5QQM67UG.js.map

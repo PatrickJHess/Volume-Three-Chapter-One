@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/dot.js
 var require_dot = __commonJS({
@@ -88,4 +88,4 @@ var require_dot = __commonJS({
 export {
   require_dot
 };
-//# sourceMappingURL=/build/_shared/chunk-HVGPS7SE.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-HVGPS7SE.js.map

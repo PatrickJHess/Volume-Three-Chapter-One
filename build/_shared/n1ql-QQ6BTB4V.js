@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/n1ql.js
 var require_n1ql = __commonJS({
@@ -54,4 +54,4 @@ var require_n1ql = __commonJS({
   }
 });
 export default require_n1ql();
-//# sourceMappingURL=/build/_shared/n1ql-QQ6BTB4V.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/n1ql-QQ6BTB4V.js.map

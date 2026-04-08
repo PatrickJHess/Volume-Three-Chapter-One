@@ -1,9 +1,9 @@
 import {
   require_haskell
-} from "/build/_shared/chunk-SMNNMFAT.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-SMNNMFAT.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/purescript.js
 var require_purescript = __commonJS({
@@ -48,4 +48,4 @@ var require_purescript = __commonJS({
 export {
   require_purescript
 };
-//# sourceMappingURL=/build/_shared/chunk-XU4PJUWY.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-XU4PJUWY.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/crystal.js
 var require_crystal = __commonJS({
@@ -320,4 +320,4 @@ var require_crystal = __commonJS({
   }
 });
 export default require_crystal();
-//# sourceMappingURL=/build/_shared/crystal-TKRKPCIQ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/crystal-TKRKPCIQ.js.map

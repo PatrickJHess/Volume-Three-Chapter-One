@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/crmsh.js
 var require_crmsh = __commonJS({
@@ -95,4 +95,4 @@ var require_crmsh = __commonJS({
   }
 });
 export default require_crmsh();
-//# sourceMappingURL=/build/_shared/crmsh-EQIYYD23.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/crmsh-EQIYYD23.js.map

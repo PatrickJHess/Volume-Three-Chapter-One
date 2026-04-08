@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/gcode.js
 var require_gcode = __commonJS({
@@ -86,4 +86,4 @@ var require_gcode = __commonJS({
   }
 });
 export default require_gcode();
-//# sourceMappingURL=/build/_shared/gcode-OQE6L2XT.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/gcode-OQE6L2XT.js.map

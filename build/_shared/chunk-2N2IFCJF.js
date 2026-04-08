@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/nginx.js
 var require_nginx = __commonJS({
@@ -66,4 +66,4 @@ var require_nginx = __commonJS({
 export {
   require_nginx
 };
-//# sourceMappingURL=/build/_shared/chunk-2N2IFCJF.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-2N2IFCJF.js.map

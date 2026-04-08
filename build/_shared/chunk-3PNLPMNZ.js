@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/eiffel.js
 var require_eiffel = __commonJS({
@@ -50,4 +50,4 @@ var require_eiffel = __commonJS({
 export {
   require_eiffel
 };
-//# sourceMappingURL=/build/_shared/chunk-3PNLPMNZ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-3PNLPMNZ.js.map

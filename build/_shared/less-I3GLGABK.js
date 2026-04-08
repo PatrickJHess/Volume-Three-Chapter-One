@@ -1,6 +1,6 @@
 import {
   require_less
-} from "/build/_shared/chunk-ZA5X3C3X.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-ZA5X3C3X.js";
+import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 export default require_less();
-//# sourceMappingURL=/build/_shared/less-I3GLGABK.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/less-I3GLGABK.js.map

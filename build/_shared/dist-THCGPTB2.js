@@ -2,13 +2,13 @@ import {
   html,
   htmlCompletionSource,
   init_dist as init_dist7
-} from "/build/_shared/chunk-XHGRI2HF.js";
-import "/build/_shared/chunk-H6SVTQIS.js";
-import "/build/_shared/chunk-QCGUJ3KP.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-XHGRI2HF.js";
+import "/Volume-Three-Chapter-One//build/_shared/chunk-H6SVTQIS.js";
+import "/Volume-Three-Chapter-One//build/_shared/chunk-QCGUJ3KP.js";
 import {
   CompletionContext,
   init_dist as init_dist6
-} from "/build/_shared/chunk-DXWAMBZP.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-DXWAMBZP.js";
 import {
   EditorSelection,
   EditorState,
@@ -41,10 +41,10 @@ import {
   styleTags,
   syntaxTree,
   tags
-} from "/build/_shared/chunk-3I3NFLZ5.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/markdown/dist/index.js
 function skipForList(bl, cx, line) {
@@ -2549,4 +2549,4 @@ export {
   markdownLanguage,
   pasteURLAsLink
 };
-//# sourceMappingURL=/build/_shared/dist-THCGPTB2.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-THCGPTB2.js.map

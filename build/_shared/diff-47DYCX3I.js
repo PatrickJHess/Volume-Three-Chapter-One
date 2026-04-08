@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/diff.js
 var TOKEN_NAMES, diff;
@@ -34,4 +34,4 @@ init_diff();
 export {
   diff
 };
-//# sourceMappingURL=/build/_shared/diff-47DYCX3I.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/diff-47DYCX3I.js.map

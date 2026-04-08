@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/scheme.js
 var require_scheme = __commonJS({
@@ -157,4 +157,4 @@ var require_scheme = __commonJS({
   }
 });
 export default require_scheme();
-//# sourceMappingURL=/build/_shared/scheme-UUE7MSE2.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/scheme-UUE7MSE2.js.map

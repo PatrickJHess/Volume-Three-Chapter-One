@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/twig.js
 var require_twig = __commonJS({
@@ -68,4 +68,4 @@ var require_twig = __commonJS({
   }
 });
 export default require_twig();
-//# sourceMappingURL=/build/_shared/twig-72ZCO7SO.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/twig-72ZCO7SO.js.map

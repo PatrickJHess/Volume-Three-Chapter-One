@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/julia.js
 var require_julia = __commonJS({
@@ -354,4 +354,4 @@ var require_julia = __commonJS({
   }
 });
 export default require_julia();
-//# sourceMappingURL=/build/_shared/julia-PFBYOAVG.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/julia-PFBYOAVG.js.map

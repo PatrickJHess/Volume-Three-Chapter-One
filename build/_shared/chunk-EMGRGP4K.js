@@ -1,9 +1,9 @@
 import {
   require_cpp
-} from "/build/_shared/chunk-Y6HUVYQU.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-Y6HUVYQU.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/chaiscript.js
 var require_chaiscript = __commonJS({
@@ -76,4 +76,4 @@ var require_chaiscript = __commonJS({
 export {
   require_chaiscript
 };
-//# sourceMappingURL=/build/_shared/chunk-EMGRGP4K.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-EMGRGP4K.js.map

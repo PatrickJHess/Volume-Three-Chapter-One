@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/qml.js
 var require_qml = __commonJS({
@@ -177,4 +177,4 @@ var require_qml = __commonJS({
   }
 });
 export default require_qml();
-//# sourceMappingURL=/build/_shared/qml-YR54X6VZ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/qml-YR54X6VZ.js.map

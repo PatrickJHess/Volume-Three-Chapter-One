@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/less.js
 var require_less = __commonJS({
@@ -657,4 +657,4 @@ var require_less = __commonJS({
   }
 });
 export default require_less();
-//# sourceMappingURL=/build/_shared/less-DNDSQKZ2.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/less-DNDSQKZ2.js.map

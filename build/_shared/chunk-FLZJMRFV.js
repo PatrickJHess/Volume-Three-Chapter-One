@@ -9,7 +9,7 @@ import {
   createDefaultSharedCoreModule,
   inject,
   lib_exports
-} from "/build/_shared/chunk-5TL5RV2T.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-5TL5RV2T.js";
 
 // ../../node_modules/@mermaid-js/parser/dist/chunks/mermaid-parser.core/chunk-LBM3YZW2.mjs
 var InfoTokenBuilder = class extends AbstractMermaidTokenBuilder {
@@ -45,4 +45,4 @@ export {
   InfoModule,
   createInfoServices
 };
-//# sourceMappingURL=/build/_shared/chunk-FLZJMRFV.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-FLZJMRFV.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/scilab.js
 var require_scilab = __commonJS({
@@ -67,4 +67,4 @@ var require_scilab = __commonJS({
   }
 });
 export default require_scilab();
-//# sourceMappingURL=/build/_shared/scilab-3WYN4EWD.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/scilab-3WYN4EWD.js.map
