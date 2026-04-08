@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/turtle.js
 function wordRegexp(words) {
@@ -147,4 +147,4 @@ init_turtle();
 export {
   turtle
 };
-//# sourceMappingURL=/build/_shared/turtle-I3X4CIJB.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/turtle-I3X4CIJB.js.map

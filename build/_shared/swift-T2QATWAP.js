@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/swift.js
 function wordSet(words) {
@@ -320,4 +320,4 @@ init_swift();
 export {
   swift
 };
-//# sourceMappingURL=/build/_shared/swift-T2QATWAP.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/swift-T2QATWAP.js.map

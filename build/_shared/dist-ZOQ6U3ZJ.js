@@ -2,7 +2,7 @@ import {
   completeFromList,
   ifNotIn,
   init_dist as init_dist3
-} from "/build/_shared/chunk-DXWAMBZP.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-DXWAMBZP.js";
 import {
   ExternalTokenizer,
   LRLanguage,
@@ -17,10 +17,10 @@ import {
   styleTags,
   syntaxTree,
   tags
-} from "/build/_shared/chunk-3I3NFLZ5.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/lang-sql/dist/index.js
 function isAlpha(ch) {
@@ -759,4 +759,4 @@ export {
   schemaCompletionSource,
   sql
 };
-//# sourceMappingURL=/build/_shared/dist-ZOQ6U3ZJ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-ZOQ6U3ZJ.js.map

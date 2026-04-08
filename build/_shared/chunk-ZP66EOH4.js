@@ -1,9 +1,9 @@
 import {
   require_markup_templating
-} from "/build/_shared/chunk-E6QZW6U4.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-E6QZW6U4.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/django.js
 var require_django = __commonJS({
@@ -71,4 +71,4 @@ var require_django = __commonJS({
 export {
   require_django
 };
-//# sourceMappingURL=/build/_shared/chunk-ZP66EOH4.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-ZP66EOH4.js.map

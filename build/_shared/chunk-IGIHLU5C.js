@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/yaml.js
 var require_yaml = __commonJS({
@@ -103,4 +103,4 @@ var require_yaml = __commonJS({
 export {
   require_yaml
 };
-//# sourceMappingURL=/build/_shared/chunk-IGIHLU5C.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-IGIHLU5C.js.map

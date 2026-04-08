@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/thrift.js
 var require_thrift = __commonJS({
@@ -47,4 +47,4 @@ var require_thrift = __commonJS({
   }
 });
 export default require_thrift();
-//# sourceMappingURL=/build/_shared/thrift-D66KLTA6.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/thrift-D66KLTA6.js.map

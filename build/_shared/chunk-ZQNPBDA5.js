@@ -1,9 +1,9 @@
 import {
   require_scheme
-} from "/build/_shared/chunk-V5N2IUKJ.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-V5N2IUKJ.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/racket.js
 var require_racket = __commonJS({
@@ -37,4 +37,4 @@ var require_racket = __commonJS({
 export {
   require_racket
 };
-//# sourceMappingURL=/build/_shared/chunk-ZQNPBDA5.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-ZQNPBDA5.js.map

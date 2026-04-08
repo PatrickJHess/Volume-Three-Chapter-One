@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/clean.js
 var require_clean = __commonJS({
@@ -34,4 +34,4 @@ var require_clean = __commonJS({
   }
 });
 export default require_clean();
-//# sourceMappingURL=/build/_shared/clean-X33RUM5L.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/clean-X33RUM5L.js.map

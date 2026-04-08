@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/xquery.js
 function chain(stream, state, f) {
@@ -551,4 +551,4 @@ init_xquery();
 export {
   xQuery
 };
-//# sourceMappingURL=/build/_shared/xquery-ZCU5EKUX.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/xquery-ZCU5EKUX.js.map

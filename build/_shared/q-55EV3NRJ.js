@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/q.js
 function buildRE(w) {
@@ -149,4 +149,4 @@ init_q();
 export {
   q
 };
-//# sourceMappingURL=/build/_shared/q-55EV3NRJ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/q-55EV3NRJ.js.map

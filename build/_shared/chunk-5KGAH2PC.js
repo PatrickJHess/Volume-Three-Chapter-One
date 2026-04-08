@@ -1,9 +1,9 @@
 import {
   require_yaml
-} from "/build/_shared/chunk-IGIHLU5C.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-IGIHLU5C.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/tap.js
 var require_tap = __commonJS({
@@ -41,4 +41,4 @@ var require_tap = __commonJS({
 export {
   require_tap
 };
-//# sourceMappingURL=/build/_shared/chunk-5KGAH2PC.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-5KGAH2PC.js.map

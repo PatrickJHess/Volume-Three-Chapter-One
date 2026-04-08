@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/xojo.js
 var require_xojo = __commonJS({
@@ -34,4 +34,4 @@ var require_xojo = __commonJS({
 export {
   require_xojo
 };
-//# sourceMappingURL=/build/_shared/chunk-HTEDHQGQ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-HTEDHQGQ.js.map

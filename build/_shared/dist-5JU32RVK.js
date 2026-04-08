@@ -11,10 +11,10 @@ import {
   init_dist6 as init_dist3,
   styleTags,
   tags
-} from "/build/_shared/chunk-3I3NFLZ5.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/lang-wast/dist/index.js
 function wast() {
@@ -85,4 +85,4 @@ export {
   wast,
   wastLanguage
 };
-//# sourceMappingURL=/build/_shared/dist-5JU32RVK.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-5JU32RVK.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/powerquery.js
 var require_powerquery = __commonJS({
@@ -68,4 +68,4 @@ var require_powerquery = __commonJS({
 export {
   require_powerquery
 };
-//# sourceMappingURL=/build/_shared/chunk-RNWIGWR6.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-RNWIGWR6.js.map

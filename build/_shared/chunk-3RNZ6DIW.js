@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/react/cjs/react.development.js
 var require_react_development = __commonJS({
@@ -23582,4 +23582,4 @@ react-dom/cjs/react-dom.development.js:
    * @license Modernizr 3.0.0pre (Custom Build) | MIT
    *)
 */
-//# sourceMappingURL=/build/_shared/chunk-3RNZ6DIW.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-3RNZ6DIW.js.map

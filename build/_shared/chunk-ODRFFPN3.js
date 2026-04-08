@@ -1,9 +1,9 @@
 import {
   require_bash
-} from "/build/_shared/chunk-IDIWAL47.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-IDIWAL47.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/shell-session.js
 var require_shell_session = __commonJS({
@@ -79,4 +79,4 @@ var require_shell_session = __commonJS({
 export {
   require_shell_session
 };
-//# sourceMappingURL=/build/_shared/chunk-ODRFFPN3.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-ODRFFPN3.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/bnf.js
 var require_bnf = __commonJS({
@@ -36,4 +36,4 @@ var require_bnf = __commonJS({
 export {
   require_bnf
 };
-//# sourceMappingURL=/build/_shared/chunk-YXGJK6QE.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-YXGJK6QE.js.map

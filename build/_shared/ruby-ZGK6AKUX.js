@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ruby.js
 function wordObj(words) {
@@ -366,4 +366,4 @@ init_ruby();
 export {
   ruby
 };
-//# sourceMappingURL=/build/_shared/ruby-ZGK6AKUX.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ruby-ZGK6AKUX.js.map

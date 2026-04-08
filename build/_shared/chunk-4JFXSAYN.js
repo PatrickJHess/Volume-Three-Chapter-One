@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/hoon.js
 var require_hoon = __commonJS({
@@ -30,4 +30,4 @@ var require_hoon = __commonJS({
 export {
   require_hoon
 };
-//# sourceMappingURL=/build/_shared/chunk-4JFXSAYN.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-4JFXSAYN.js.map

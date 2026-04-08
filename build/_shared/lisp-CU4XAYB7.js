@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/lisp.js
 var require_lisp = __commonJS({
@@ -116,4 +116,4 @@ var require_lisp = __commonJS({
   }
 });
 export default require_lisp();
-//# sourceMappingURL=/build/_shared/lisp-CU4XAYB7.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/lisp-CU4XAYB7.js.map

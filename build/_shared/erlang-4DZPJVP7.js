@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/erlang.js
 function tokenizer(stream, state) {
@@ -684,4 +684,4 @@ init_erlang();
 export {
   erlang
 };
-//# sourceMappingURL=/build/_shared/erlang-4DZPJVP7.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/erlang-4DZPJVP7.js.map

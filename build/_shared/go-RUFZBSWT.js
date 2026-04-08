@@ -1,6 +1,6 @@
 import {
   require_go
-} from "/build/_shared/chunk-YEV5ZKV6.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-YEV5ZKV6.js";
+import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 export default require_go();
-//# sourceMappingURL=/build/_shared/go-RUFZBSWT.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/go-RUFZBSWT.js.map

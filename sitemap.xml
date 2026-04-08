@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3010/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3011/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3010</loc>
+    <loc>http://localhost:3011</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/interacting-with-jupyter-books</loc>
+    <loc>http://localhost:3011/interacting-with-jupyter-books</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/chapter-highlights</loc>
+    <loc>http://localhost:3011/chapter-highlights</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/bond-pricing</loc>
+    <loc>http://localhost:3011/bond-pricing</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/numpy-and-pandas</loc>
+    <loc>http://localhost:3011/numpy-and-pandas</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/calculating-and-graphing-the-term-structure-of-int</loc>
+    <loc>http://localhost:3011/calculating-and-graphing-the-term-structure-of-int</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/chapter-summary</loc>
+    <loc>http://localhost:3011/chapter-summary</loc>
   </url>
   <url>
-    <loc>http://localhost:3010/imported-functions</loc>
+    <loc>http://localhost:3011/imported-functions</loc>
   </url>
 </urlset>

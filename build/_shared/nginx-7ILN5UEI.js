@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/nginx.js
 var require_nginx = __commonJS({
@@ -136,4 +136,4 @@ var require_nginx = __commonJS({
   }
 });
 export default require_nginx();
-//# sourceMappingURL=/build/_shared/nginx-7ILN5UEI.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/nginx-7ILN5UEI.js.map

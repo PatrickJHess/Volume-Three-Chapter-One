@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/markdown.js
 var require_markdown = __commonJS({
@@ -239,4 +239,4 @@ var require_markdown = __commonJS({
   }
 });
 export default require_markdown();
-//# sourceMappingURL=/build/_shared/markdown-RHVAPKA4.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/markdown-RHVAPKA4.js.map

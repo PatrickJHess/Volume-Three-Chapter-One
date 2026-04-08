@@ -1,6 +1,6 @@
 import {
   require_peoplecode
-} from "/build/_shared/chunk-DXAK56HO.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-DXAK56HO.js";
+import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 export default require_peoplecode();
-//# sourceMappingURL=/build/_shared/peoplecode-SXHLJOWA.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/peoplecode-SXHLJOWA.js.map

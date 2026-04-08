@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/nginx.js
 function words(str) {
@@ -162,4 +162,4 @@ init_nginx();
 export {
   nginx
 };
-//# sourceMappingURL=/build/_shared/nginx-TVQASGL2.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/nginx-TVQASGL2.js.map

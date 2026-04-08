@@ -8,13 +8,13 @@ import {
   parse2,
   rehypeParse,
   webNamespaces
-} from "/build/_shared/chunk-JUCOPL2A.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-JUCOPL2A.js";
 import {
   unified
-} from "/build/_shared/chunk-YX4KLQK2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-YX4KLQK2.js";
 import {
   u
-} from "/build/_shared/chunk-YTFS7O5J.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-YTFS7O5J.js";
 import {
   doi,
   fillMissingKeys,
@@ -24,13 +24,13 @@ import {
   normalizeJsonToString,
   stashPlaceholder,
   validationWarning
-} from "/build/_shared/chunk-7SI5XUIQ.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-7SI5XUIQ.js";
 import {
   jsYaml
-} from "/build/_shared/chunk-DOEQHMLC.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-DOEQHMLC.js";
 import {
   VFile
-} from "/build/_shared/chunk-MWXHQG25.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-MWXHQG25.js";
 import {
   AdmonitionKind,
   NotebookCell,
@@ -53,13 +53,13 @@ import {
   setTextAsChild,
   toText,
   transferTargetAttrs
-} from "/build/_shared/chunk-Q6DHUCUI.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
 import {
   visit
-} from "/build/_shared/chunk-LPSXN4QV.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
 import {
   __export
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-frontmatter/dist/utils/fillPageFrontmatter.js
 function fillSiteFrontmatter(base2, filler, opts, keys, trimUnused) {
@@ -30917,4 +30917,4 @@ export {
   basicTransformationsPlugin,
   getFrontmatter
 };
-//# sourceMappingURL=/build/_shared/chunk-NT723IVF.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-NT723IVF.js.map

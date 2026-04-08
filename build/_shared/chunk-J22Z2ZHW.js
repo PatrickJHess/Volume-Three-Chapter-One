@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/erlang.js
 var require_erlang = __commonJS({
@@ -59,4 +59,4 @@ var require_erlang = __commonJS({
 export {
   require_erlang
 };
-//# sourceMappingURL=/build/_shared/chunk-J22Z2ZHW.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-J22Z2ZHW.js.map

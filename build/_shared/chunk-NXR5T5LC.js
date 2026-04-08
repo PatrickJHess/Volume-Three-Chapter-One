@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/gedcom.js
 var require_gedcom = __commonJS({
@@ -44,4 +44,4 @@ var require_gedcom = __commonJS({
 export {
   require_gedcom
 };
-//# sourceMappingURL=/build/_shared/chunk-NXR5T5LC.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-NXR5T5LC.js.map

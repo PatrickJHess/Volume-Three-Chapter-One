@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/tcl.js
 var require_tcl = __commonJS({
@@ -83,4 +83,4 @@ var require_tcl = __commonJS({
   }
 });
 export default require_tcl();
-//# sourceMappingURL=/build/_shared/tcl-7UABWQRL.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/tcl-7UABWQRL.js.map

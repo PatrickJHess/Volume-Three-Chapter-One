@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/less.js
 var require_less = __commonJS({
@@ -59,4 +59,4 @@ var require_less = __commonJS({
 export {
   require_less
 };
-//# sourceMappingURL=/build/_shared/chunk-ZA5X3C3X.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-ZA5X3C3X.js.map

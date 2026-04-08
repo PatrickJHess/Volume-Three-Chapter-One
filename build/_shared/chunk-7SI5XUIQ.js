@@ -2,11 +2,11 @@ import {
   FRONTMATTER_ALIASES,
   PAGE_KNOWN_PARTS,
   SITE_FRONTMATTER_KEYS
-} from "/build/_shared/chunk-Q6DHUCUI.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
 import {
   __commonJS,
   __toESM
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/spdx-license-ids/index.json
 var require_spdx_license_ids = __commonJS({
@@ -6637,4 +6637,4 @@ export {
   fillNumbering,
   validatePageFrontmatter
 };
-//# sourceMappingURL=/build/_shared/chunk-7SI5XUIQ.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-7SI5XUIQ.js.map

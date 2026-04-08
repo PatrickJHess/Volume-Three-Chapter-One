@@ -1,9 +1,9 @@
 import {
   require_markup_templating
-} from "/build/_shared/chunk-E6QZW6U4.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-E6QZW6U4.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ftl.js
 var require_ftl = __commonJS({
@@ -136,4 +136,4 @@ var require_ftl = __commonJS({
 export {
   require_ftl
 };
-//# sourceMappingURL=/build/_shared/chunk-HUMPHLYK.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-HUMPHLYK.js.map

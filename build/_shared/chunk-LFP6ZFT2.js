@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/wren.js
 var require_wren = __commonJS({
@@ -105,4 +105,4 @@ var require_wren = __commonJS({
 export {
   require_wren
 };
-//# sourceMappingURL=/build/_shared/chunk-LFP6ZFT2.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-LFP6ZFT2.js.map

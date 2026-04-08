@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/yaml.js
 var require_yaml = __commonJS({
@@ -171,4 +171,4 @@ var require_yaml = __commonJS({
   }
 });
 export default require_yaml();
-//# sourceMappingURL=/build/_shared/yaml-NBGEA765.js.map
+//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/yaml-NBGEA765.js.map
