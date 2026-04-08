@@ -1,0 +1,93 @@
+version: 1
+project:
+  title: >-
+    Basic Concepts Of Fixed Income: Basic Bond Concepts and the Term Structure
+    of Interest Rates
+  abstract: |
+    An introduction to bond pricing, and the term structure of interest rates.
+  github: PatrickJHess/Volume-Three-Chapter-One
+  copyright: >-
+    2025 by the University of Virginia Darden School Foundation,
+    Charlottesville, VA.
+  authors:
+    - name: Financial Python
+ 
+  exports:
+    - format: pdf
+      template: lapreprint-typst
+      output: book.pdf      # The filename it creates
+      id: my_pdf_export     # The "name" of this specific job
+
+  downloads:
+    - id: my_pdf_export     # ONLY USE THE ID HERE
+      title: Download PDF
+  toc:
+    - title: Introduction
+      file: intro.md
+    - title: Getting Started
+      children:
+        - title: Interacting With Jupyter Books
+          file: Interacting With Jupyter Books.md
+    - title: 'Basic Concepts of Fixed Income: Chapter One'
+      children:
+        - title: Chapter Highlights
+          file: Chapter_Highlights.md
+        - title: Bond Pricing
+          file: Bond Pricing.md
+        - title: Numpy and Pandas
+          file: notebooks/Numpy_And_Pandas.ipynb
+        - title: Calculating and Graphing The Term Structure
+          file: notebooks/Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb
+        - title: Chapter Summary
+          file: Chapter_Summary.md
+        - title: Imported Functions
+          file: imported_functions.md
+    - title: Hub & Other Chapters Of Basic Concepts Of Fixed Income
+      children:
+        - title: Hub For Basic Concepts Of Fixed Income
+          url: https://patrickjhess.github.io/Volume-Three-Hub/
+        - title: 'Chapters Two: Accrued Interest'
+          url: https://patrickjhess.github.io/Vol-3-Chap-2/
+        - title: 'Chapters Three: Bond Pay Data'
+          url: https://patrickjhess.github.io/Vol-3-Chap-3/
+        - title: 'Chapters Four: Bootstrapping The Term Structure With Coupon Bonds'
+          url: https://patrickjhess.github.io/Vol-3-Chap-4/
+        - title: 'Chapter Five: Par Yields'
+          url: https://patrickjhess.github.io/Vol-3-Chap-5/
+        - title: 'Chapter Six: Yield To Maturity'
+          url: https://patrickjhess.github.io/Vol-3-Chap-6/
+        - title: 'Chapter Seven: Measuring Interest Rate Risk With Duration'
+          url: https://patrickjhess.github.io/Vol-3-Chap-7/
+        - title: 'Chapter Eight: Convexity And Interest Rate Risk'
+          url: https://patrickjhess.github.io/Vol-3-Chap-8/
+        - title: 'Chapter Nine: The Nelson and Siegel Model Of the Term Structure'
+          url: https://patrickjhess.github.io/Vol-3-Chap-9/
+  binder:
+    url: https://mybinder.org
+    provider: github
+    repo: PatrickJHess/Volume-Three-Chapter-One
+    ref: master
+    interface: classic
+  jupyter:
+    binder:
+      url: https://mybinder.org
+      provider: github
+      repo: PatrickJHess/Volume-Three-Chapter-One
+      ref: master
+ 
+site:
+  template: book-theme
+  title: >-
+    "Basic Concepts Of Fixed Income: Basic Bond Concepts and the Term Structure
+    of Interest Rates"
+  options:
+    style: static/custom.css 
+
+
+
+
+
+
+
+      
+
