@@ -70,6 +70,7 @@ project:
 site:
   template: book-theme
   options:
+    repository: https://github.com/PatrickJHess/Volume-Three-Chapter-One
     style: static/custom.css
     base_url: /Volume-Three-Chapter-One/ 
 
