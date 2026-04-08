@@ -62,16 +62,8 @@ project:
           url: https://patrickjhess.github.io/Vol-3-Chap-8/
         - title: 'Chapter Nine: The Nelson and Siegel Model Of the Term Structure'
           url: https://patrickjhess.github.io/Vol-3-Chap-9/
-  binder:
-    url: https://mybinder.org
-    provider: github
-    repo: PatrickJHess/Volume-Three-Chapter-One
-    ref: master
-    interface: classic
   jupyter:
     binder:
-      url: https://mybinder.org
-      provider: github
       repo: PatrickJHess/Volume-Three-Chapter-One
       ref: master
  

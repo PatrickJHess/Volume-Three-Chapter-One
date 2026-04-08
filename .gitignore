@@ -1,0 +1,15 @@
+# MyST Build folders
+_build/
+public/
+
+# Jupyter / Python cache
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Virtual Environments (if you are using one)
+venv/
+.env/
+.venv/
+
+node_modules/
