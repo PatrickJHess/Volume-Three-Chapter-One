@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/julia-repl.js
 var require_julia_repl = __commonJS({
@@ -33,4 +33,4 @@ var require_julia_repl = __commonJS({
   }
 });
 export default require_julia_repl();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/julia-repl-FNCWDQ5U.js.map
+//# sourceMappingURL=/build/_shared/julia-repl-FNCWDQ5U.js.map

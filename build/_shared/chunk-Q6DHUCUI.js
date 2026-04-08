@@ -3,11 +3,11 @@ import {
   SKIP,
   convert,
   visit
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
+} from "/build/_shared/chunk-LPSXN4QV.js";
 import {
   __commonJS,
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/boolbase/index.js
 var require_boolbase = __commonJS({
@@ -2067,4 +2067,4 @@ export {
   TargetKind,
   AdmonitionKind
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js.map
+//# sourceMappingURL=/build/_shared/chunk-Q6DHUCUI.js.map

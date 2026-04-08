@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // browser-route-module:routes/myst-theme[.css].ts?browser
 var require_myst_theme_css = __commonJS({
@@ -9,4 +9,4 @@ var require_myst_theme_css = __commonJS({
   }
 });
 export default require_myst_theme_css();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/routes/myst-theme[.css]-JKFDL2SK.js.map
+//# sourceMappingURL=/build/routes/myst-theme[.css]-JKFDL2SK.js.map

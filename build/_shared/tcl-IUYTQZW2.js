@@ -1,6 +1,6 @@
 import {
   require_tcl
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-YKPQTSLH.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-YKPQTSLH.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_tcl();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/tcl-IUYTQZW2.js.map
+//# sourceMappingURL=/build/_shared/tcl-IUYTQZW2.js.map

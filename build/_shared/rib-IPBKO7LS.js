@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/rib.js
 var require_rib = __commonJS({
@@ -22,4 +22,4 @@ var require_rib = __commonJS({
   }
 });
 export default require_rib();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/rib-IPBKO7LS.js.map
+//# sourceMappingURL=/build/_shared/rib-IPBKO7LS.js.map

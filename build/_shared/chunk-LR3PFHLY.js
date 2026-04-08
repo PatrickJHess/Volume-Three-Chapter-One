@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/nasm.js
 var require_nasm = __commonJS({
@@ -40,4 +40,4 @@ var require_nasm = __commonJS({
 export {
   require_nasm
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-LR3PFHLY.js.map
+//# sourceMappingURL=/build/_shared/chunk-LR3PFHLY.js.map

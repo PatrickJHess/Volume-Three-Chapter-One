@@ -1,6 +1,6 @@
 import {
   require_javascript
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-TYTWADG3.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-TYTWADG3.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_javascript();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/javascript-X7S6JOCX.js.map
+//# sourceMappingURL=/build/_shared/javascript-X7S6JOCX.js.map

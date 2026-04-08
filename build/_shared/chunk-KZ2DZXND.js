@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/pascal.js
 var require_pascal = __commonJS({
@@ -80,4 +80,4 @@ var require_pascal = __commonJS({
 export {
   require_pascal
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-KZ2DZXND.js.map
+//# sourceMappingURL=/build/_shared/chunk-KZ2DZXND.js.map

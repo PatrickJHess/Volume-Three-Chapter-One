@@ -12,10 +12,10 @@ import {
   init_dist6 as init_dist3,
   styleTags,
   tags
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
+} from "/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/rust/dist/index.js
 function isNum(ch) {
@@ -240,4 +240,4 @@ export {
   rust,
   rustLanguage
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-6O54Y3PK.js.map
+//# sourceMappingURL=/build/_shared/dist-6O54Y3PK.js.map

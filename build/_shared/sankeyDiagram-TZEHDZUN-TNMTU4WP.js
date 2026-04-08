@@ -10,15 +10,15 @@ import {
   setAccTitle,
   setDiagramTitle,
   setupGraphViewbox
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   Tableau10_default,
   __name,
   ordinal,
   select_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-2WW6JOYG.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
+import "/build/_shared/chunk-2WW6JOYG.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/d3-path/src/path.js
 var pi = Math.PI;
@@ -1363,4 +1363,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/sankeyDiagram-TZEHDZUN-TNMTU4WP.js.map
+//# sourceMappingURL=/build/_shared/sankeyDiagram-TZEHDZUN-TNMTU4WP.js.map

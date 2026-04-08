@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ocaml.js
 var require_ocaml = __commonJS({
@@ -71,4 +71,4 @@ var require_ocaml = __commonJS({
 export {
   require_ocaml
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-RACZYGLX.js.map
+//# sourceMappingURL=/build/_shared/chunk-RACZYGLX.js.map

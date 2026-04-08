@@ -1,23 +1,23 @@
 import {
   selectSvgElement
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-YZZVRB5P.js";
+} from "/build/_shared/chunk-YZZVRB5P.js";
 import {
   JSON_SCHEMA,
   load
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-OXD2KSWA.js";
+} from "/build/_shared/chunk-OXD2KSWA.js";
 import {
   getIconStyles
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-BGO6WPMI.js";
+} from "/build/_shared/chunk-BGO6WPMI.js";
 import {
   insertCluster,
   insertNode,
   positionNode
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-WP6UWRBG.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-6ICL6EEV.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-R2WPI2J6.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-V6SU7KPH.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-WEDXSMQA.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-6CUK2GM5.js";
+} from "/build/_shared/chunk-WP6UWRBG.js";
+import "/build/_shared/chunk-6ICL6EEV.js";
+import "/build/_shared/chunk-R2WPI2J6.js";
+import "/build/_shared/chunk-V6SU7KPH.js";
+import "/build/_shared/chunk-WEDXSMQA.js";
+import "/build/_shared/chunk-6CUK2GM5.js";
 import {
   darken_default,
   defaultConfig_default,
@@ -26,14 +26,14 @@ import {
   lighten_default,
   sanitizeText,
   setupGraphViewbox
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-T7QTAV5N.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-2WW6JOYG.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
+import "/build/_shared/chunk-T7QTAV5N.js";
+import "/build/_shared/chunk-2WW6JOYG.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/kanban-definition-3W4ZIXB7.mjs
 var parser = function() {
@@ -1123,4 +1123,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/kanban-definition-3W4ZIXB7-GBZZNGKR.js.map
+//# sourceMappingURL=/build/_shared/kanban-definition-3W4ZIXB7-GBZZNGKR.js.map

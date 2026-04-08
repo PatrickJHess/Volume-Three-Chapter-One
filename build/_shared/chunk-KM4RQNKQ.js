@@ -1,9 +1,9 @@
 import {
   require_markup_templating
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-E6QZW6U4.js";
+} from "/build/_shared/chunk-E6QZW6U4.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ejs.js
 var require_ejs = __commonJS({
@@ -46,4 +46,4 @@ var require_ejs = __commonJS({
 export {
   require_ejs
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-KM4RQNKQ.js.map
+//# sourceMappingURL=/build/_shared/chunk-KM4RQNKQ.js.map

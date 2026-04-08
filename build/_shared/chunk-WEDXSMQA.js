@@ -1,13 +1,13 @@
 import {
   require_dist
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-6CUK2GM5.js";
+} from "/build/_shared/chunk-6CUK2GM5.js";
 import {
   assignWithDepth_default,
   common_default,
   detectType,
   directiveRegex,
   sanitizeDirective
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   basisClosed_default,
@@ -32,16 +32,16 @@ import {
   stepAfter,
   stepBefore,
   step_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
 import {
   init_memoize,
   init_merge,
   memoize_default,
   merge_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-T7QTAV5N.js";
+} from "/build/_shared/chunk-T7QTAV5N.js";
 import {
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-S3R3BYOJ.mjs
 var import_sanitize_url = __toESM(require_dist(), 1);
@@ -593,4 +593,4 @@ export {
   getEdgeId,
   handleUndefinedAttr
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-WEDXSMQA.js.map
+//# sourceMappingURL=/build/_shared/chunk-WEDXSMQA.js.map

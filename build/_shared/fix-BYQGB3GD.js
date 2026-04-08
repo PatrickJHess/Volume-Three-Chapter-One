@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/fix.js
 var require_fix = __commonJS({
@@ -38,4 +38,4 @@ var require_fix = __commonJS({
   }
 });
 export default require_fix();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/fix-BYQGB3GD.js.map
+//# sourceMappingURL=/build/_shared/fix-BYQGB3GD.js.map

@@ -1,20 +1,20 @@
 import {
   getIconStyles
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-BGO6WPMI.js";
+} from "/build/_shared/chunk-BGO6WPMI.js";
 import {
   getDiagramElement
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-725C7MY3.js";
+} from "/build/_shared/chunk-725C7MY3.js";
 import {
   setupViewPortForSVG
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-WMU6LCGH.js";
+} from "/build/_shared/chunk-WMU6LCGH.js";
 import {
   getRegisteredLayoutAlgorithm,
   render
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-QDIBAP63.js";
+} from "/build/_shared/chunk-QDIBAP63.js";
 import {
   getEdgeId,
   utils_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-WEDXSMQA.js";
+} from "/build/_shared/chunk-WEDXSMQA.js";
 import {
   clear,
   common_default,
@@ -27,12 +27,12 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log,
   select_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-B4BG7PRW.mjs
 var parser = function() {
@@ -1950,4 +1950,4 @@ export {
   styles_default,
   classRenderer_v3_unified_default
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-7TIX7CDU.js.map
+//# sourceMappingURL=/build/_shared/chunk-7TIX7CDU.js.map

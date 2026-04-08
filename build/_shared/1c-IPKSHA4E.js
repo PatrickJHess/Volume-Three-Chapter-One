@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/1c.js
 var require_c = __commonJS({
@@ -144,4 +144,4 @@ var require_c = __commonJS({
   }
 });
 export default require_c();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/1c-IPKSHA4E.js.map
+//# sourceMappingURL=/build/_shared/1c-IPKSHA4E.js.map

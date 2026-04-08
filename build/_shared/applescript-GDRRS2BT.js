@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/applescript.js
 var require_applescript = __commonJS({
@@ -146,4 +146,4 @@ var require_applescript = __commonJS({
   }
 });
 export default require_applescript();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/applescript-GDRRS2BT.js.map
+//# sourceMappingURL=/build/_shared/applescript-GDRRS2BT.js.map

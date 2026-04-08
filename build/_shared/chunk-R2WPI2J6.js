@@ -1,9 +1,9 @@
 import {
   getConfig2
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-ATLVNIR6.mjs
 var solidStateFill = /* @__PURE__ */ __name((color) => {
@@ -111,4 +111,4 @@ export {
   styles2String,
   userNodeOverrides
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-R2WPI2J6.js.map
+//# sourceMappingURL=/build/_shared/chunk-R2WPI2J6.js.map

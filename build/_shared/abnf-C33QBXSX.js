@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/abnf.js
 var require_abnf = __commonJS({
@@ -80,4 +80,4 @@ var require_abnf = __commonJS({
   }
 });
 export default require_abnf();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/abnf-C33QBXSX.js.map
+//# sourceMappingURL=/build/_shared/abnf-C33QBXSX.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/coq.js
 var require_coq = __commonJS({
@@ -33,4 +33,4 @@ var require_coq = __commonJS({
   }
 });
 export default require_coq();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/coq-I6MBISEE.js.map
+//# sourceMappingURL=/build/_shared/coq-I6MBISEE.js.map

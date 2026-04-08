@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/htmlbars.js
 var require_htmlbars = __commonJS({
@@ -278,4 +278,4 @@ var require_htmlbars = __commonJS({
   }
 });
 export default require_htmlbars();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/htmlbars-APYUL26S.js.map
+//# sourceMappingURL=/build/_shared/htmlbars-APYUL26S.js.map

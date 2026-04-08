@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/kusto.js
 var require_kusto = __commonJS({
@@ -54,4 +54,4 @@ var require_kusto = __commonJS({
 export {
   require_kusto
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-6WUVP4O5.js.map
+//# sourceMappingURL=/build/_shared/chunk-6WUVP4O5.js.map

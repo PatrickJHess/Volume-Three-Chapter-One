@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/asn1.js
 function words(str) {
@@ -171,4 +171,4 @@ init_asn1();
 export {
   asn1
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/asn1-DAP3NAU7.js.map
+//# sourceMappingURL=/build/_shared/asn1-DAP3NAU7.js.map

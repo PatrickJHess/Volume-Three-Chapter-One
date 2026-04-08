@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/d.js
 var require_d = __commonJS({
@@ -95,4 +95,4 @@ var require_d = __commonJS({
 export {
   require_d
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-6XWODOFX.js.map
+//# sourceMappingURL=/build/_shared/chunk-6XWODOFX.js.map

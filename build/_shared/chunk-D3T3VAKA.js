@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/psl.js
 var require_psl = __commonJS({
@@ -51,4 +51,4 @@ var require_psl = __commonJS({
 export {
   require_psl
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-D3T3VAKA.js.map
+//# sourceMappingURL=/build/_shared/chunk-D3T3VAKA.js.map

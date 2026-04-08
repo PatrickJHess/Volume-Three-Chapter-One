@@ -1,10 +1,10 @@
 import {
   getConfig2
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   select_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-EXTU4WIE.mjs
 var selectSvgElement = /* @__PURE__ */ __name((id) => {
@@ -22,4 +22,4 @@ var selectSvgElement = /* @__PURE__ */ __name((id) => {
 export {
   selectSvgElement
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-YZZVRB5P.js.map
+//# sourceMappingURL=/build/_shared/chunk-YZZVRB5P.js.map

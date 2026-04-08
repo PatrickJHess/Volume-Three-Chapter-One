@@ -1,6 +1,6 @@
 import {
   require_apl
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-RMOGZHQE.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-RMOGZHQE.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_apl();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/apl-EE3MN76V.js.map
+//# sourceMappingURL=/build/_shared/apl-EE3MN76V.js.map

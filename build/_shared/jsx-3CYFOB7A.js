@@ -1,6 +1,6 @@
 import {
   require_jsx
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-6QCI5B74.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-6QCI5B74.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_jsx();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/jsx-3CYFOB7A.js.map
+//# sourceMappingURL=/build/_shared/jsx-3CYFOB7A.js.map

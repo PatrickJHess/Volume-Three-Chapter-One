@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/livecodeserver.js
 var require_livecodeserver = __commonJS({
@@ -117,4 +117,4 @@ var require_livecodeserver = __commonJS({
   }
 });
 export default require_livecodeserver();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/livecodeserver-MSL75AYE.js.map
+//# sourceMappingURL=/build/_shared/livecodeserver-MSL75AYE.js.map

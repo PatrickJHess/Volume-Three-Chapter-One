@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/ruby.js
 var require_ruby = __commonJS({
@@ -346,4 +346,4 @@ var require_ruby = __commonJS({
   }
 });
 export default require_ruby();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ruby-THCS76C6.js.map
+//# sourceMappingURL=/build/_shared/ruby-THCS76C6.js.map

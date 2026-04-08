@@ -1,14 +1,14 @@
 import {
   require_extend,
   unified
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-YX4KLQK2.js";
+} from "/build/_shared/chunk-YX4KLQK2.js";
 import {
   require_utils,
   u
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-YTFS7O5J.js";
+} from "/build/_shared/chunk-YTFS7O5J.js";
 import {
   require_classnames
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-ZNG4DSCS.js";
+} from "/build/_shared/chunk-ZNG4DSCS.js";
 import {
   AdmonitionKind,
   admonitionKindToTitle,
@@ -19,19 +19,19 @@ import {
   selectAll,
   setTextAsChild,
   zwitch
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
 import {
   EXIT,
   SKIP,
   convert,
   visit,
   visitParents
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
+} from "/build/_shared/chunk-LPSXN4QV.js";
 import {
   __commonJS,
   __export,
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/rehype-parse/node_modules/parse5/lib/common/unicode.js
 var require_unicode = __commonJS({
@@ -14350,4 +14350,4 @@ export {
   transform,
   mystToHtml
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-JUCOPL2A.js.map
+//# sourceMappingURL=/build/_shared/chunk-JUCOPL2A.js.map

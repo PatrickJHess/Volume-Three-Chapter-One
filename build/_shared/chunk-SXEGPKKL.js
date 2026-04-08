@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/firestore-security-rules.js
 var require_firestore_security_rules = __commonJS({
@@ -52,4 +52,4 @@ var require_firestore_security_rules = __commonJS({
 export {
   require_firestore_security_rules
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-SXEGPKKL.js.map
+//# sourceMappingURL=/build/_shared/chunk-SXEGPKKL.js.map

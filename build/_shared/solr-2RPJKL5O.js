@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/solr.js
 function isNumber(word) {
@@ -81,4 +81,4 @@ init_solr();
 export {
   solr
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/solr-2RPJKL5O.js.map
+//# sourceMappingURL=/build/_shared/solr-2RPJKL5O.js.map

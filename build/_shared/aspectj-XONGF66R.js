@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/aspectj.js
 var require_aspectj = __commonJS({
@@ -161,4 +161,4 @@ var require_aspectj = __commonJS({
   }
 });
 export default require_aspectj();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/aspectj-XONGF66R.js.map
+//# sourceMappingURL=/build/_shared/aspectj-XONGF66R.js.map

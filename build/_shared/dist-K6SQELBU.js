@@ -8,9 +8,9 @@ import {
   selectAll,
   toText,
   writeTexLabelledComment
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
+import "/build/_shared/chunk-LPSXN4QV.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-to-tex/dist/types.js
 var DEFAULT_IMAGE_WIDTH = 0.7;
@@ -1475,4 +1475,4 @@ export {
   generatePreamble,
   mergePreambles
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-K6SQELBU.js.map
+//# sourceMappingURL=/build/_shared/dist-K6SQELBU.js.map

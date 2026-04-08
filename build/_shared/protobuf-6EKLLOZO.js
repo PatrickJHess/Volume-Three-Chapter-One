@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/protobuf.js
 function wordRegexp(words) {
@@ -88,4 +88,4 @@ init_protobuf();
 export {
   protobuf
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/protobuf-6EKLLOZO.js.map
+//# sourceMappingURL=/build/_shared/protobuf-6EKLLOZO.js.map

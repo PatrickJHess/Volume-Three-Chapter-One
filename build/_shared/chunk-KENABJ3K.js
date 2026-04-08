@@ -1,6 +1,6 @@
 import {
   __name
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-4BX2VUAB.mjs
 function populateCommonDb(ast, db) {
@@ -19,4 +19,4 @@ __name(populateCommonDb, "populateCommonDb");
 export {
   populateCommonDb
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-KENABJ3K.js.map
+//# sourceMappingURL=/build/_shared/chunk-KENABJ3K.js.map

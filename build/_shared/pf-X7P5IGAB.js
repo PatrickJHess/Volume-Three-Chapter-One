@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/pf.js
 var require_pf = __commonJS({
@@ -42,4 +42,4 @@ var require_pf = __commonJS({
   }
 });
 export default require_pf();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/pf-X7P5IGAB.js.map
+//# sourceMappingURL=/build/_shared/pf-X7P5IGAB.js.map

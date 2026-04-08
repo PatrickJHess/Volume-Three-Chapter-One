@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/gauss.js
 var require_gauss = __commonJS({
@@ -204,4 +204,4 @@ var require_gauss = __commonJS({
   }
 });
 export default require_gauss();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/gauss-CSYOGZKR.js.map
+//# sourceMappingURL=/build/_shared/gauss-CSYOGZKR.js.map

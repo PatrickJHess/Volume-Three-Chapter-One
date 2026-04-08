@@ -1,9 +1,9 @@
 import {
   require_c
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Y5OVBNFJ.js";
+} from "/build/_shared/chunk-Y5OVBNFJ.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/cpp.js
 var require_cpp = __commonJS({
@@ -128,4 +128,4 @@ var require_cpp = __commonJS({
 export {
   require_cpp
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-Y6HUVYQU.js.map
+//# sourceMappingURL=/build/_shared/chunk-Y6HUVYQU.js.map

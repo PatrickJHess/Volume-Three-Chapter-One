@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/asciidoc.js
 var require_asciidoc = __commonJS({
@@ -283,4 +283,4 @@ var require_asciidoc = __commonJS({
   }
 });
 export default require_asciidoc();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/asciidoc-AJVCY74C.js.map
+//# sourceMappingURL=/build/_shared/asciidoc-AJVCY74C.js.map

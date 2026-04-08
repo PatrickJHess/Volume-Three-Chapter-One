@@ -1,6 +1,6 @@
 import {
   require_java
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-KR5TX4ID.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-KR5TX4ID.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_java();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/java-GZP3XCHR.js.map
+//# sourceMappingURL=/build/_shared/java-GZP3XCHR.js.map

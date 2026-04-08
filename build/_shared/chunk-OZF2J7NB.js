@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/vim.js
 var require_vim = __commonJS({
@@ -26,4 +26,4 @@ var require_vim = __commonJS({
 export {
   require_vim
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-OZF2J7NB.js.map
+//# sourceMappingURL=/build/_shared/chunk-OZF2J7NB.js.map

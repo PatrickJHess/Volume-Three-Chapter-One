@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/pug.js
 var require_pug = __commonJS({
@@ -202,4 +202,4 @@ var require_pug = __commonJS({
 export {
   require_pug
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-6KHDIJDA.js.map
+//# sourceMappingURL=/build/_shared/chunk-6KHDIJDA.js.map

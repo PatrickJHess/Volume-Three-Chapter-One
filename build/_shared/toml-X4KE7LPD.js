@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/toml.js
 var toml;
@@ -86,4 +86,4 @@ init_toml();
 export {
   toml
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/toml-X4KE7LPD.js.map
+//# sourceMappingURL=/build/_shared/toml-X4KE7LPD.js.map

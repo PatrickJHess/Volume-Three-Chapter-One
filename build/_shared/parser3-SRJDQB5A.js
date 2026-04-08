@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/parser3.js
 var require_parser3 = __commonJS({
@@ -56,4 +56,4 @@ var require_parser3 = __commonJS({
   }
 });
 export default require_parser3();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/parser3-SRJDQB5A.js.map
+//# sourceMappingURL=/build/_shared/parser3-SRJDQB5A.js.map

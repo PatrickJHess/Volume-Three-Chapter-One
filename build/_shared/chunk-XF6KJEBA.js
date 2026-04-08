@@ -76,32 +76,32 @@ import {
   useSidebarHeight,
   useSiteManifest,
   useThemeTop
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-QYHIDYQN.js";
+} from "/build/_shared/chunk-QYHIDYQN.js";
 import {
   require_jsx_runtime
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-IW6XPN43.js";
+} from "/build/_shared/chunk-IW6XPN43.js";
 import {
   SourceFileKind
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-IMMBAB6Q.js";
+} from "/build/_shared/chunk-IMMBAB6Q.js";
 import {
   require_classnames
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-ZNG4DSCS.js";
+} from "/build/_shared/chunk-ZNG4DSCS.js";
 import {
   copyNode
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
 import {
   isRouteErrorResponse,
   require_jsx_dev_runtime,
   useLoaderData,
   useRouteError
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-2RVQXRZB.js";
+} from "/build/_shared/chunk-2RVQXRZB.js";
 import {
   require_react
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-3RNZ6DIW.js";
+} from "/build/_shared/chunk-3RNZ6DIW.js";
 import {
   __esm,
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // node-modules-polyfills:crypto
 function dew$2() {
@@ -110438,4 +110438,4 @@ export {
 @jspm/core/nodelibs/browser/crypto.js:
   (*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> *)
 */
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-XF6KJEBA.js.map
+//# sourceMappingURL=/build/_shared/chunk-XF6KJEBA.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/stylus.js
 var require_stylus = __commonJS({
@@ -153,4 +153,4 @@ var require_stylus = __commonJS({
 export {
   require_stylus
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-NQDFOBL6.js.map
+//# sourceMappingURL=/build/_shared/chunk-NQDFOBL6.js.map

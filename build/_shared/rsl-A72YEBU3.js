@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/rsl.js
 var require_rsl = __commonJS({
@@ -40,4 +40,4 @@ var require_rsl = __commonJS({
   }
 });
 export default require_rsl();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/rsl-A72YEBU3.js.map
+//# sourceMappingURL=/build/_shared/rsl-A72YEBU3.js.map

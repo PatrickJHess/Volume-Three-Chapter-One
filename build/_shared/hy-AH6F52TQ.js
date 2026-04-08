@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/hy.js
 var require_hy = __commonJS({
@@ -80,4 +80,4 @@ var require_hy = __commonJS({
   }
 });
 export default require_hy();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/hy-AH6F52TQ.js.map
+//# sourceMappingURL=/build/_shared/hy-AH6F52TQ.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/julia.js
 var require_julia = __commonJS({
@@ -51,4 +51,4 @@ var require_julia = __commonJS({
 export {
   require_julia
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-IFSE3V2P.js.map
+//# sourceMappingURL=/build/_shared/chunk-IFSE3V2P.js.map

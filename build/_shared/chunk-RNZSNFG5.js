@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/verilog.js
 var require_verilog = __commonJS({
@@ -42,4 +42,4 @@ var require_verilog = __commonJS({
 export {
   require_verilog
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-RNZSNFG5.js.map
+//# sourceMappingURL=/build/_shared/chunk-RNZSNFG5.js.map

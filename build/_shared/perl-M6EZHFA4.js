@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/perl.js
 var require_perl = __commonJS({
@@ -480,4 +480,4 @@ var require_perl = __commonJS({
   }
 });
 export default require_perl();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/perl-M6EZHFA4.js.map
+//# sourceMappingURL=/build/_shared/perl-M6EZHFA4.js.map

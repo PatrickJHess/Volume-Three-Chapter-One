@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/typescript.js
 var require_typescript = __commonJS({
@@ -68,4 +68,4 @@ var require_typescript = __commonJS({
 export {
   require_typescript
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-JA6ZLOJZ.js.map
+//# sourceMappingURL=/build/_shared/chunk-JA6ZLOJZ.js.map

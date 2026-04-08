@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/nevod.js
 var require_nevod = __commonJS({
@@ -141,4 +141,4 @@ var require_nevod = __commonJS({
 export {
   require_nevod
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-VXDUR4YQ.js.map
+//# sourceMappingURL=/build/_shared/chunk-VXDUR4YQ.js.map

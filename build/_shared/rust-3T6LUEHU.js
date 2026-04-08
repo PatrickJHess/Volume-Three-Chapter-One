@@ -1,6 +1,6 @@
 import {
   require_rust
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-YJF32COI.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-YJF32COI.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_rust();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/rust-3T6LUEHU.js.map
+//# sourceMappingURL=/build/_shared/rust-3T6LUEHU.js.map

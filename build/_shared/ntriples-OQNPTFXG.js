@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ntriples.js
 function transitState(currState, c) {
@@ -182,4 +182,4 @@ init_ntriples();
 export {
   ntriples
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ntriples-OQNPTFXG.js.map
+//# sourceMappingURL=/build/_shared/ntriples-OQNPTFXG.js.map

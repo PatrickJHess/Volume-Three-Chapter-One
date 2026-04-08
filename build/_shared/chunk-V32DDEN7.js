@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/wiki.js
 var require_wiki = __commonJS({
@@ -94,4 +94,4 @@ var require_wiki = __commonJS({
 export {
   require_wiki
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-V32DDEN7.js.map
+//# sourceMappingURL=/build/_shared/chunk-V32DDEN7.js.map

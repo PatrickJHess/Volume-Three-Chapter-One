@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/elixir.js
 var require_elixir = __commonJS({
@@ -258,4 +258,4 @@ var require_elixir = __commonJS({
   }
 });
 export default require_elixir();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/elixir-46BRCSM6.js.map
+//# sourceMappingURL=/build/_shared/elixir-46BRCSM6.js.map

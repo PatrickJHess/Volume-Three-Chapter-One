@@ -1,9 +1,9 @@
 import {
   require_haskell
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-SMNNMFAT.js";
+} from "/build/_shared/chunk-SMNNMFAT.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/idris.js
 var require_idris = __commonJS({
@@ -38,4 +38,4 @@ var require_idris = __commonJS({
 export {
   require_idris
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-5RFEFE7W.js.map
+//# sourceMappingURL=/build/_shared/chunk-5RFEFE7W.js.map

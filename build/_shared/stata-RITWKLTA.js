@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/stata.js
 var require_stata = __commonJS({
@@ -52,4 +52,4 @@ var require_stata = __commonJS({
   }
 });
 export default require_stata();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/stata-RITWKLTA.js.map
+//# sourceMappingURL=/build/_shared/stata-RITWKLTA.js.map

@@ -1,12 +1,12 @@
 import {
   require_t4_templating
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-VVE4QZ3U.js";
+} from "/build/_shared/chunk-VVE4QZ3U.js";
 import {
   require_csharp
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-JWAGNOMV.js";
+} from "/build/_shared/chunk-JWAGNOMV.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/t4-cs.js
 var require_t4_cs = __commonJS({
@@ -27,4 +27,4 @@ var require_t4_cs = __commonJS({
 export {
   require_t4_cs
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-DY2MRAPI.js.map
+//# sourceMappingURL=/build/_shared/chunk-DY2MRAPI.js.map

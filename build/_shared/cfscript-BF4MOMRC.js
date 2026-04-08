@@ -1,6 +1,6 @@
 import {
   require_cfscript
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-IDYJEI4G.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-IDYJEI4G.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_cfscript();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/cfscript-BF4MOMRC.js.map
+//# sourceMappingURL=/build/_shared/cfscript-BF4MOMRC.js.map

@@ -1,6 +1,6 @@
 import {
   require_json
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-5IOB2Y3D.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-5IOB2Y3D.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_json();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/json-HNQPWVW5.js.map
+//# sourceMappingURL=/build/_shared/json-HNQPWVW5.js.map

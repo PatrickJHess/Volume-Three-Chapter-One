@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/javadoclike.js
 var require_javadoclike = __commonJS({
@@ -84,4 +84,4 @@ var require_javadoclike = __commonJS({
 export {
   require_javadoclike
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-XG7NZX75.js.map
+//# sourceMappingURL=/build/_shared/chunk-XG7NZX75.js.map

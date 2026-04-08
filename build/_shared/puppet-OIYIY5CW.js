@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/puppet.js
 function define(style, string) {
@@ -147,4 +147,4 @@ init_puppet();
 export {
   puppet
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/puppet-OIYIY5CW.js.map
+//# sourceMappingURL=/build/_shared/puppet-OIYIY5CW.js.map

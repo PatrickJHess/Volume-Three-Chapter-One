@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ebnf.js
 var commentType, stateType, ebnf;
@@ -149,4 +149,4 @@ init_ebnf();
 export {
   ebnf
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ebnf-SYTXLS5O.js.map
+//# sourceMappingURL=/build/_shared/ebnf-SYTXLS5O.js.map

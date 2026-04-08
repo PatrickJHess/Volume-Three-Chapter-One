@@ -4,9 +4,9 @@ import {
   cssLanguage,
   defineCSSCompletionSource,
   init_dist
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-H6SVTQIS.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-H6SVTQIS.js";
+import "/build/_shared/chunk-3I3NFLZ5.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 init_dist();
 export {
   css,
@@ -14,4 +14,4 @@ export {
   cssLanguage,
   defineCSSCompletionSource
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-UBYCARNW.js.map
+//# sourceMappingURL=/build/_shared/dist-UBYCARNW.js.map

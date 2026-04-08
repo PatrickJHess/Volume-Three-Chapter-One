@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/reasonml.js
 var require_reasonml = __commonJS({
@@ -292,4 +292,4 @@ var require_reasonml = __commonJS({
   }
 });
 export default require_reasonml();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/reasonml-4CQBVGJA.js.map
+//# sourceMappingURL=/build/_shared/reasonml-4CQBVGJA.js.map

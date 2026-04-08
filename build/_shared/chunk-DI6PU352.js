@@ -1,9 +1,9 @@
 import {
   require_ruby
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-IZ2CIBO4.js";
+} from "/build/_shared/chunk-IZ2CIBO4.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/haml.js
 var require_haml = __commonJS({
@@ -163,4 +163,4 @@ var require_haml = __commonJS({
 export {
   require_haml
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-DI6PU352.js.map
+//# sourceMappingURL=/build/_shared/chunk-DI6PU352.js.map

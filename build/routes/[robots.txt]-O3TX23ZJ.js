@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // browser-route-module:routes/[robots.txt].tsx?browser
 var require_robots_txt = __commonJS({
@@ -9,4 +9,4 @@ var require_robots_txt = __commonJS({
   }
 });
 export default require_robots_txt();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/routes/[robots.txt]-O3TX23ZJ.js.map
+//# sourceMappingURL=/build/routes/[robots.txt]-O3TX23ZJ.js.map

@@ -1,10 +1,10 @@
 import {
   html,
   init_dist as init_dist5
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-XHGRI2HF.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-H6SVTQIS.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-QCGUJ3KP.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-DXWAMBZP.js";
+} from "/build/_shared/chunk-XHGRI2HF.js";
+import "/build/_shared/chunk-H6SVTQIS.js";
+import "/build/_shared/chunk-QCGUJ3KP.js";
+import "/build/_shared/chunk-DXWAMBZP.js";
 import {
   ExternalTokenizer,
   LRLanguage,
@@ -22,10 +22,10 @@ import {
   parseMixed,
   styleTags,
   tags
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
+} from "/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/php/dist/index.js
 function keywords(name) {
@@ -463,4 +463,4 @@ export {
   php,
   phpLanguage
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-7O3TT2ZG.js.map
+//# sourceMappingURL=/build/_shared/dist-7O3TT2ZG.js.map

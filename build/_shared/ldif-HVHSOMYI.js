@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/ldif.js
 var require_ldif = __commonJS({
@@ -43,4 +43,4 @@ var require_ldif = __commonJS({
   }
 });
 export default require_ldif();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ldif-HVHSOMYI.js.map
+//# sourceMappingURL=/build/_shared/ldif-HVHSOMYI.js.map

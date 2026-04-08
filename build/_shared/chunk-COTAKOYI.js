@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/sass.js
 var require_sass = __commonJS({
@@ -86,4 +86,4 @@ var require_sass = __commonJS({
 export {
   require_sass
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-COTAKOYI.js.map
+//# sourceMappingURL=/build/_shared/chunk-COTAKOYI.js.map

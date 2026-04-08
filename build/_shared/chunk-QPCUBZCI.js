@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/qml.js
 var require_qml = __commonJS({
@@ -92,4 +92,4 @@ var require_qml = __commonJS({
 export {
   require_qml
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-QPCUBZCI.js.map
+//# sourceMappingURL=/build/_shared/chunk-QPCUBZCI.js.map

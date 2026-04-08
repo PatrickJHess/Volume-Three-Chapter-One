@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/arcade.js
 var require_arcade = __commonJS({
@@ -152,4 +152,4 @@ var require_arcade = __commonJS({
   }
 });
 export default require_arcade();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/arcade-MNZOWGEV.js.map
+//# sourceMappingURL=/build/_shared/arcade-MNZOWGEV.js.map

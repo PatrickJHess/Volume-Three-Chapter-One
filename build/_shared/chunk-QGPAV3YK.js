@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/cobol.js
 var require_cobol = __commonJS({
@@ -65,4 +65,4 @@ var require_cobol = __commonJS({
 export {
   require_cobol
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-QGPAV3YK.js.map
+//# sourceMappingURL=/build/_shared/chunk-QGPAV3YK.js.map

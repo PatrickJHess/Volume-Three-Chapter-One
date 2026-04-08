@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/mojolicious.js
 var require_mojolicious = __commonJS({
@@ -35,4 +35,4 @@ var require_mojolicious = __commonJS({
   }
 });
 export default require_mojolicious();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/mojolicious-HGKXBKLS.js.map
+//# sourceMappingURL=/build/_shared/mojolicious-HGKXBKLS.js.map

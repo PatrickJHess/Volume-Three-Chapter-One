@@ -1,4 +1,4 @@
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/node_modules/katex/dist/katex.mjs
 var SourceLocation = class {
@@ -14533,4 +14533,4 @@ export {
   renderToString,
   version
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/katex-LWHGFBWL.js.map
+//# sourceMappingURL=/build/_shared/katex-LWHGFBWL.js.map

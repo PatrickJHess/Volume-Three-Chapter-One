@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/perl.js
 var require_perl = __commonJS({
@@ -148,4 +148,4 @@ var require_perl = __commonJS({
 export {
   require_perl
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-I3K3XOVW.js.map
+//# sourceMappingURL=/build/_shared/chunk-I3K3XOVW.js.map

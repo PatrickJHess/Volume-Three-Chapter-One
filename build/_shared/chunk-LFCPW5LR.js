@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/groovy.js
 var require_groovy = __commonJS({
@@ -74,4 +74,4 @@ var require_groovy = __commonJS({
 export {
   require_groovy
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-LFCPW5LR.js.map
+//# sourceMappingURL=/build/_shared/chunk-LFCPW5LR.js.map

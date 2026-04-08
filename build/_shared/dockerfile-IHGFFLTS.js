@@ -1,10 +1,10 @@
 import {
   init_simple_mode,
   simpleMode
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-TVPXKM32.js";
+} from "/build/_shared/chunk-TVPXKM32.js";
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/dockerfile.js
 var from, fromRegex, shells, shellsAsArrayRegex, expose, exposeRegex, others, instructions, instructionRegex, instructionOnlyLine, instructionWithArguments, dockerFile;
@@ -217,4 +217,4 @@ init_dockerfile();
 export {
   dockerFile
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dockerfile-IHGFFLTS.js.map
+//# sourceMappingURL=/build/_shared/dockerfile-IHGFFLTS.js.map

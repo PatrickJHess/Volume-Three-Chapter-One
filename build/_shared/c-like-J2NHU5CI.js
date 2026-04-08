@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/c-like.js
 var require_c_like = __commonJS({
@@ -432,4 +432,4 @@ var require_c_like = __commonJS({
   }
 });
 export default require_c_like();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/c-like-J2NHU5CI.js.map
+//# sourceMappingURL=/build/_shared/c-like-J2NHU5CI.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/markup-templating.js
 var require_markup_templating = __commonJS({
@@ -115,4 +115,4 @@ var require_markup_templating = __commonJS({
 export {
   require_markup_templating
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-E6QZW6U4.js.map
+//# sourceMappingURL=/build/_shared/chunk-E6QZW6U4.js.map

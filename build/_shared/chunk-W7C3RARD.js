@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/unrealscript.js
 var require_unrealscript = __commonJS({
@@ -55,4 +55,4 @@ var require_unrealscript = __commonJS({
 export {
   require_unrealscript
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-W7C3RARD.js.map
+//# sourceMappingURL=/build/_shared/chunk-W7C3RARD.js.map

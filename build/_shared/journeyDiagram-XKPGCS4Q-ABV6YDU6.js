@@ -3,11 +3,11 @@ import {
   drawRect,
   drawText,
   getNoteRect
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-PBNQRLL6.js";
+} from "/build/_shared/chunk-PBNQRLL6.js";
 import {
   getIconStyles
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-BGO6WPMI.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-6CUK2GM5.js";
+} from "/build/_shared/chunk-BGO6WPMI.js";
+import "/build/_shared/chunk-6CUK2GM5.js";
 import {
   clear,
   configureSvgSize,
@@ -18,14 +18,14 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-463FZTZ7.js";
+} from "/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   arc_default,
   select_default
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-7PDOACA3.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-2WW6JOYG.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-7PDOACA3.js";
+import "/build/_shared/chunk-2WW6JOYG.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/journeyDiagram-XKPGCS4Q.mjs
 var parser = function() {
@@ -1301,4 +1301,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/journeyDiagram-XKPGCS4Q-ABV6YDU6.js.map
+//# sourceMappingURL=/build/_shared/journeyDiagram-XKPGCS4Q-ABV6YDU6.js.map

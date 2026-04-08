@@ -1,6 +1,6 @@
 import {
   require_arff
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-YWY7DOTY.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-YWY7DOTY.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_arff();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/arff-AIGAQ6S3.js.map
+//# sourceMappingURL=/build/_shared/arff-AIGAQ6S3.js.map

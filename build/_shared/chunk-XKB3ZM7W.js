@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/gml.js
 var require_gml = __commonJS({
@@ -23,4 +23,4 @@ var require_gml = __commonJS({
 export {
   require_gml
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-XKB3ZM7W.js.map
+//# sourceMappingURL=/build/_shared/chunk-XKB3ZM7W.js.map

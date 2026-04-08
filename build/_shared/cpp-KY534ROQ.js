@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/cpp.js
 var require_cpp = __commonJS({
@@ -409,4 +409,4 @@ var require_cpp = __commonJS({
   }
 });
 export default require_cpp();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/cpp-KY534ROQ.js.map
+//# sourceMappingURL=/build/_shared/cpp-KY534ROQ.js.map

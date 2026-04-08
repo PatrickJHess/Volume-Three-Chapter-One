@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ttcn-cfg.js
 function words(str) {
@@ -160,4 +160,4 @@ init_ttcn_cfg();
 export {
   ttcnCfg
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ttcn-cfg-FLMZM44L.js.map
+//# sourceMappingURL=/build/_shared/ttcn-cfg-FLMZM44L.js.map

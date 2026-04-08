@@ -1,12 +1,12 @@
 import {
   require_typescript
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-JA6ZLOJZ.js";
+} from "/build/_shared/chunk-JA6ZLOJZ.js";
 import {
   require_javadoclike
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-XG7NZX75.js";
+} from "/build/_shared/chunk-XG7NZX75.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/jsdoc.js
 var require_jsdoc = __commonJS({
@@ -109,4 +109,4 @@ var require_jsdoc = __commonJS({
 export {
   require_jsdoc
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-J6LBZICF.js.map
+//# sourceMappingURL=/build/_shared/chunk-J6LBZICF.js.map

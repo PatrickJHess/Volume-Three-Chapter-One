@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/stan.js
 var require_stan = __commonJS({
@@ -545,4 +545,4 @@ var require_stan = __commonJS({
   }
 });
 export default require_stan();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/stan-QFWT5BN2.js.map
+//# sourceMappingURL=/build/_shared/stan-QFWT5BN2.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/basic.js
 var require_basic = __commonJS({
@@ -52,4 +52,4 @@ var require_basic = __commonJS({
   }
 });
 export default require_basic();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/basic-VU5EYEOM.js.map
+//# sourceMappingURL=/build/_shared/basic-VU5EYEOM.js.map

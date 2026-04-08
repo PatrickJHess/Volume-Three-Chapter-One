@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/coffeescript.js
 var require_coffeescript = __commonJS({
@@ -100,4 +100,4 @@ var require_coffeescript = __commonJS({
 export {
   require_coffeescript
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-WQXBVDRI.js.map
+//# sourceMappingURL=/build/_shared/chunk-WQXBVDRI.js.map

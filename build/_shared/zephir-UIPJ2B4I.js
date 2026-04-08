@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/zephir.js
 var require_zephir = __commonJS({
@@ -116,4 +116,4 @@ var require_zephir = __commonJS({
   }
 });
 export default require_zephir();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/zephir-UIPJ2B4I.js.map
+//# sourceMappingURL=/build/_shared/zephir-UIPJ2B4I.js.map

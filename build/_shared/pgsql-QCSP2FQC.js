@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/pgsql.js
 var require_pgsql = __commonJS({
@@ -386,4 +386,4 @@ var require_pgsql = __commonJS({
   }
 });
 export default require_pgsql();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/pgsql-QCSP2FQC.js.map
+//# sourceMappingURL=/build/_shared/pgsql-QCSP2FQC.js.map

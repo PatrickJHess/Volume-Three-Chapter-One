@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/bsl.js
 var require_bsl = __commonJS({
@@ -85,4 +85,4 @@ var require_bsl = __commonJS({
 export {
   require_bsl
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-WWGTDUH6.js.map
+//# sourceMappingURL=/build/_shared/chunk-WWGTDUH6.js.map

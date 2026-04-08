@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/ceylon.js
 var require_ceylon = __commonJS({
@@ -71,4 +71,4 @@ var require_ceylon = __commonJS({
   }
 });
 export default require_ceylon();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/ceylon-ZKJ6CMAP.js.map
+//# sourceMappingURL=/build/_shared/ceylon-ZKJ6CMAP.js.map

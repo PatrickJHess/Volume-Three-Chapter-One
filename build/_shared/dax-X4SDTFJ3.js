@@ -1,6 +1,6 @@
 import {
   require_dax
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-VA2OGFXM.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-VA2OGFXM.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_dax();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dax-X4SDTFJ3.js.map
+//# sourceMappingURL=/build/_shared/dax-X4SDTFJ3.js.map

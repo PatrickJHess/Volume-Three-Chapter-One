@@ -1,6 +1,6 @@
 import {
   require_rip
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-4SH4TG6O.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-4SH4TG6O.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_rip();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/rip-VQU2ROQV.js.map
+//# sourceMappingURL=/build/_shared/rip-VQU2ROQV.js.map

@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/webidl.js
 function wordRegexp(words) {
@@ -223,4 +223,4 @@ init_webidl();
 export {
   webIDL
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/webidl-HJTPJ47D.js.map
+//# sourceMappingURL=/build/_shared/webidl-HJTPJ47D.js.map

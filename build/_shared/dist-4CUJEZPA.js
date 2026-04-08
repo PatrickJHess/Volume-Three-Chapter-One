@@ -14,10 +14,10 @@ import {
   init_dist6 as init_dist3,
   styleTags,
   tags
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-3I3NFLZ5.js";
+} from "/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/cpp/dist/index.js
 var RawString, templateArgsEndFallback, MacroName, R, L, u, U, a, z, A, Z, Underscore, Zero, Quote, ParenL, ParenR, Space, GreaterThan, rawString, fallback, cppHighlighting, spec_identifier, spec_, spec_templateArgsEnd, spec_scopedIdentifier, parser;
@@ -217,4 +217,4 @@ export {
   cpp,
   cppLanguage
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-4CUJEZPA.js.map
+//# sourceMappingURL=/build/_shared/dist-4CUJEZPA.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/go.js
 var require_go = __commonJS({
@@ -67,4 +67,4 @@ var require_go = __commonJS({
   }
 });
 export default require_go();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/go-MAZI5OWP.js.map
+//# sourceMappingURL=/build/_shared/go-MAZI5OWP.js.map

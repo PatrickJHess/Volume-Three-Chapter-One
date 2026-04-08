@@ -14,47 +14,47 @@ import {
   renderers,
   require_loaders,
   useGridSystemProvider
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-QYHIDYQN.js";
+} from "/build/_shared/chunk-QYHIDYQN.js";
 import {
   require_jsx_runtime
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-IW6XPN43.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-ZNGG4FXY.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-5XJWQ5WJ.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-SP2MKLPW.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-T7QTAV5N.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-2WW6JOYG.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-IMMBAB6Q.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-7SI5XUIQ.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-DOEQHMLC.js";
+} from "/build/_shared/chunk-IW6XPN43.js";
+import "/build/_shared/chunk-ZNGG4FXY.js";
+import "/build/_shared/chunk-5XJWQ5WJ.js";
+import "/build/_shared/chunk-SP2MKLPW.js";
+import "/build/_shared/chunk-T7QTAV5N.js";
+import "/build/_shared/chunk-2WW6JOYG.js";
+import "/build/_shared/chunk-IMMBAB6Q.js";
+import "/build/_shared/chunk-7SI5XUIQ.js";
+import "/build/_shared/chunk-DOEQHMLC.js";
 import {
   require_classnames
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-ZNG4DSCS.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-MWXHQG25.js";
+} from "/build/_shared/chunk-ZNG4DSCS.js";
+import "/build/_shared/chunk-MWXHQG25.js";
 import {
   matches,
   select,
   selectAll
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
 import {
   convert
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
+} from "/build/_shared/chunk-LPSXN4QV.js";
 import {
   Outlet,
   require_jsx_dev_runtime,
   useLoaderData
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-2RVQXRZB.js";
+} from "/build/_shared/chunk-2RVQXRZB.js";
 import {
   require_react
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-3RNZ6DIW.js";
+} from "/build/_shared/chunk-3RNZ6DIW.js";
 import {
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // app/styles/app.css
-var app_default = "/Volume-Three-Chapter-One//build/_assets/app-4OILZK2U.css";
+var app_default = "/build/_assets/app-4OILZK2U.css";
 
 // ../../node_modules/thebe-core/dist/lib/thebe-core.css
-var thebe_core_default = "/Volume-Three-Chapter-One//build/_assets/thebe-core-MA3QWTX6.css";
+var thebe_core_default = "/build/_assets/thebe-core-MA3QWTX6.css";
 
 // app/root.tsx
 var import_loaders = __toESM(require_loaders());
@@ -2539,4 +2539,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/root-K5AZREDU.js.map
+//# sourceMappingURL=/build/root-K5AZREDU.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/nsis.js
 var require_nsis = __commonJS({
@@ -108,4 +108,4 @@ var require_nsis = __commonJS({
   }
 });
 export default require_nsis();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/nsis-5CY2IGLA.js.map
+//# sourceMappingURL=/build/_shared/nsis-5CY2IGLA.js.map

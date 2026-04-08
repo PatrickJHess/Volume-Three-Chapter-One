@@ -1,6 +1,6 @@
 import {
   require_erlang
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-J22Z2ZHW.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-J22Z2ZHW.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_erlang();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/erlang-WSOO6ZFX.js.map
+//# sourceMappingURL=/build/_shared/erlang-WSOO6ZFX.js.map

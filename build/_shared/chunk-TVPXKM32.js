@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/simple-mode.js
 function simpleMode(states) {
@@ -152,4 +152,4 @@ export {
   simpleMode,
   init_simple_mode
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-TVPXKM32.js.map
+//# sourceMappingURL=/build/_shared/chunk-TVPXKM32.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/mizar.js
 var require_mizar = __commonJS({
@@ -18,4 +18,4 @@ var require_mizar = __commonJS({
   }
 });
 export default require_mizar();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/mizar-ZRTDJXJ6.js.map
+//# sourceMappingURL=/build/_shared/mizar-ZRTDJXJ6.js.map

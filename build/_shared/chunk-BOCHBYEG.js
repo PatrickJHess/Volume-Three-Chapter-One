@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/mongodb.js
 var require_mongodb = __commonJS({
@@ -309,4 +309,4 @@ var require_mongodb = __commonJS({
 export {
   require_mongodb
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-BOCHBYEG.js.map
+//# sourceMappingURL=/build/_shared/chunk-BOCHBYEG.js.map

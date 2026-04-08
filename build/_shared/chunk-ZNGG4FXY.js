@@ -2,7 +2,7 @@ import {
   __commonJS,
   __esm,
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lumino/widgets/node_modules/@lumino/algorithm/dist/index.es6.js
 function iter(object) {
@@ -19870,4 +19870,4 @@ export {
   PERFORMANCE OF THIS SOFTWARE.
   ***************************************************************************** *)
 */
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-ZNGG4FXY.js.map
+//# sourceMappingURL=/build/_shared/chunk-ZNGG4FXY.js.map

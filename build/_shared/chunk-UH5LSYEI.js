@@ -9,7 +9,7 @@ import {
   createDefaultSharedCoreModule,
   inject,
   lib_exports
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-5TL5RV2T.js";
+} from "/build/_shared/chunk-5TL5RV2T.js";
 
 // ../../node_modules/@mermaid-js/parser/dist/chunks/mermaid-parser.core/chunk-T53DSG4Q.mjs
 var PieTokenBuilder = class extends AbstractMermaidTokenBuilder {
@@ -56,4 +56,4 @@ export {
   PieModule,
   createPieServices
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-UH5LSYEI.js.map
+//# sourceMappingURL=/build/_shared/chunk-UH5LSYEI.js.map

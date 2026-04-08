@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/smali.js
 var require_smali = __commonJS({
@@ -135,4 +135,4 @@ var require_smali = __commonJS({
   }
 });
 export default require_smali();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/smali-HSRKQQ5P.js.map
+//# sourceMappingURL=/build/_shared/smali-HSRKQQ5P.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/cal.js
 var require_cal = __commonJS({
@@ -99,4 +99,4 @@ var require_cal = __commonJS({
   }
 });
 export default require_cal();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/cal-7ZREG6PY.js.map
+//# sourceMappingURL=/build/_shared/cal-7ZREG6PY.js.map

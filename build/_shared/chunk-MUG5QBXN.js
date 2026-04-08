@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/uorazor.js
 var require_uorazor = __commonJS({
@@ -64,4 +64,4 @@ var require_uorazor = __commonJS({
 export {
   require_uorazor
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-MUG5QBXN.js.map
+//# sourceMappingURL=/build/_shared/chunk-MUG5QBXN.js.map

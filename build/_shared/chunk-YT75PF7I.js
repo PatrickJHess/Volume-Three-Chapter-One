@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/cypher.js
 var require_cypher = __commonJS({
@@ -48,4 +48,4 @@ var require_cypher = __commonJS({
 export {
   require_cypher
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-YT75PF7I.js.map
+//# sourceMappingURL=/build/_shared/chunk-YT75PF7I.js.map

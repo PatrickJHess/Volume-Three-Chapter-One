@@ -1,9 +1,9 @@
 import {
   require_turtle
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-57LYTWL4.js";
+} from "/build/_shared/chunk-57LYTWL4.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/sparql.js
 var require_sparql = __commonJS({
@@ -36,4 +36,4 @@ var require_sparql = __commonJS({
 export {
   require_sparql
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-4GCEH6U7.js.map
+//# sourceMappingURL=/build/_shared/chunk-4GCEH6U7.js.map

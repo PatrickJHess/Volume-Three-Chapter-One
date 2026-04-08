@@ -4,12 +4,12 @@ import {
   fileWarn,
   getMetadataTags,
   selectAll
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
+import "/build/_shared/chunk-LPSXN4QV.js";
 import {
   __commonJS,
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/docx/build/index.js
 var require_build = __commonJS({
@@ -11758,4 +11758,4 @@ export {
 docx/build/index.js:
   (*! For license information please see index.js.LICENSE.txt *)
 */
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-5Q6NXYLZ.js.map
+//# sourceMappingURL=/build/_shared/dist-5Q6NXYLZ.js.map

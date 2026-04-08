@@ -1,9 +1,9 @@
 import {
   require_basic
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-4PPREKOU.js";
+} from "/build/_shared/chunk-4PPREKOU.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/vbnet.js
 var require_vbnet = __commonJS({
@@ -43,4 +43,4 @@ var require_vbnet = __commonJS({
 export {
   require_vbnet
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-XZPFVGSQ.js.map
+//# sourceMappingURL=/build/_shared/chunk-XZPFVGSQ.js.map

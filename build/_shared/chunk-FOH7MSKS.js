@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/jolie.js
 var require_jolie = __commonJS({
@@ -56,4 +56,4 @@ var require_jolie = __commonJS({
 export {
   require_jolie
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-FOH7MSKS.js.map
+//# sourceMappingURL=/build/_shared/chunk-FOH7MSKS.js.map

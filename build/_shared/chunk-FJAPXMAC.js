@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/keepalived.js
 var require_keepalived = __commonJS({
@@ -64,4 +64,4 @@ var require_keepalived = __commonJS({
 export {
   require_keepalived
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-FJAPXMAC.js.map
+//# sourceMappingURL=/build/_shared/chunk-FJAPXMAC.js.map

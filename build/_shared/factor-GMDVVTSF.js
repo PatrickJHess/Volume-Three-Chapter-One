@@ -1,6 +1,6 @@
 import {
   require_factor
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-A7PY6X5C.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-A7PY6X5C.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_factor();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/factor-GMDVVTSF.js.map
+//# sourceMappingURL=/build/_shared/factor-GMDVVTSF.js.map

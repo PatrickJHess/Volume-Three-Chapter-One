@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/kotlin.js
 var require_kotlin = __commonJS({
@@ -262,4 +262,4 @@ var require_kotlin = __commonJS({
   }
 });
 export default require_kotlin();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/kotlin-65HXB34U.js.map
+//# sourceMappingURL=/build/_shared/kotlin-65HXB34U.js.map

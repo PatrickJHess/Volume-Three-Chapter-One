@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/mizar.js
 var require_mizar = __commonJS({
@@ -28,4 +28,4 @@ var require_mizar = __commonJS({
 export {
   require_mizar
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-EJA33NZX.js.map
+//# sourceMappingURL=/build/_shared/chunk-EJA33NZX.js.map

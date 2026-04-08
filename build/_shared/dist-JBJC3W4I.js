@@ -1,4 +1,4 @@
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-button/dist/index.js
 var REF_PATTERN = /^(.+?)<([^<>]+)>$/;
@@ -30,4 +30,4 @@ var buttonRole = {
 export {
   buttonRole
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-JBJC3W4I.js.map
+//# sourceMappingURL=/build/_shared/dist-JBJC3W4I.js.map

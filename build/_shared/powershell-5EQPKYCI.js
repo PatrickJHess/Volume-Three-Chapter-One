@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/powershell.js
 function buildRegexp(patterns, options) {
@@ -337,4 +337,4 @@ init_powershell();
 export {
   powerShell
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/powershell-5EQPKYCI.js.map
+//# sourceMappingURL=/build/_shared/powershell-5EQPKYCI.js.map

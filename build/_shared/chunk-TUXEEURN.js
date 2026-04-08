@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/abap.js
 var require_abap = __commonJS({
@@ -67,4 +67,4 @@ var require_abap = __commonJS({
 export {
   require_abap
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-TUXEEURN.js.map
+//# sourceMappingURL=/build/_shared/chunk-TUXEEURN.js.map

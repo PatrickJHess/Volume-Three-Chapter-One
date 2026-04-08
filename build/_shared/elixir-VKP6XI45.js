@@ -1,6 +1,6 @@
 import {
   require_elixir
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-HVOTHJDG.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-HVOTHJDG.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_elixir();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/elixir-VKP6XI45.js.map
+//# sourceMappingURL=/build/_shared/elixir-VKP6XI45.js.map

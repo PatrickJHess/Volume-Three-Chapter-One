@@ -1,15 +1,15 @@
 import {
   addCommonDirectiveOptions,
   commonDirectiveOptions
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-2GZXDR27.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-DOEQHMLC.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-ZNG4DSCS.js";
+} from "/build/_shared/chunk-2GZXDR27.js";
+import "/build/_shared/chunk-DOEQHMLC.js";
+import "/build/_shared/chunk-ZNG4DSCS.js";
 import {
   createId,
   normalizeLabel
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-LPSXN4QV.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
+import "/build/_shared/chunk-LPSXN4QV.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-exercise/dist/exercise.js
 var exerciseDirective = {
@@ -128,4 +128,4 @@ export {
   exerciseDirectives,
   solutionDirective
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/dist-WH5IDONK.js.map
+//# sourceMappingURL=/build/_shared/dist-WH5IDONK.js.map

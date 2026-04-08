@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/powershell.js
 var require_powershell = __commonJS({
@@ -72,4 +72,4 @@ var require_powershell = __commonJS({
 export {
   require_powershell
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-3V6E757J.js.map
+//# sourceMappingURL=/build/_shared/chunk-3V6E757J.js.map

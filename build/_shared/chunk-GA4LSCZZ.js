@@ -1,9 +1,9 @@
 import {
   require_java
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-KR5TX4ID.js";
+} from "/build/_shared/chunk-KR5TX4ID.js";
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/scala.js
 var require_scala = __commonJS({
@@ -68,4 +68,4 @@ var require_scala = __commonJS({
 export {
   require_scala
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-GA4LSCZZ.js.map
+//# sourceMappingURL=/build/_shared/chunk-GA4LSCZZ.js.map

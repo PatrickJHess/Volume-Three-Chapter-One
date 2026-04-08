@@ -1,9 +1,9 @@
 import {
   jsYaml
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-DOEQHMLC.js";
+} from "/build/_shared/chunk-DOEQHMLC.js";
 import {
   require_classnames
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-ZNG4DSCS.js";
+} from "/build/_shared/chunk-ZNG4DSCS.js";
 import {
   NotebookCell,
   RuleId,
@@ -14,10 +14,10 @@ import {
   parseIndexLine,
   select,
   toText
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-Q6DHUCUI.js";
+} from "/build/_shared/chunk-Q6DHUCUI.js";
 import {
   __toESM
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-directives/dist/utils.js
 function classDirectiveOption(nodeType = "node") {
@@ -4827,4 +4827,4 @@ export {
   addCommonDirectiveOptions,
   defaultDirectives
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-2GZXDR27.js.map
+//# sourceMappingURL=/build/_shared/chunk-2GZXDR27.js.map

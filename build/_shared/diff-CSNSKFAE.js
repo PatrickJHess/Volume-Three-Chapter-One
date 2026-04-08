@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/diff.js
 var require_diff = __commonJS({
@@ -83,4 +83,4 @@ var require_diff = __commonJS({
   }
 });
 export default require_diff();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/diff-CSNSKFAE.js.map
+//# sourceMappingURL=/build/_shared/diff-CSNSKFAE.js.map

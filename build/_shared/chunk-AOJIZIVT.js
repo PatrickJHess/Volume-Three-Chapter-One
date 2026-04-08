@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/pure.js
 var require_pure = __commonJS({
@@ -105,4 +105,4 @@ var require_pure = __commonJS({
 export {
   require_pure
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-AOJIZIVT.js.map
+//# sourceMappingURL=/build/_shared/chunk-AOJIZIVT.js.map

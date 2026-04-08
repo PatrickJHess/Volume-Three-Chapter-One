@@ -1,6 +1,6 @@
 import {
   require_keepalived
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-FJAPXMAC.js";
-import "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-FJAPXMAC.js";
+import "/build/_shared/chunk-CGOEG7L2.js";
 export default require_keepalived();
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/keepalived-35BPDUEK.js.map
+//# sourceMappingURL=/build/_shared/keepalived-35BPDUEK.js.map

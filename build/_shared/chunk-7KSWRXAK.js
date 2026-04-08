@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/Volume-Three-Chapter-One//build/_shared/chunk-CGOEG7L2.js";
+} from "/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/dataweave.js
 var require_dataweave = __commonJS({
@@ -57,4 +57,4 @@ var require_dataweave = __commonJS({
 export {
   require_dataweave
 };
-//# sourceMappingURL=/Volume-Three-Chapter-One//build/_shared/chunk-7KSWRXAK.js.map
+//# sourceMappingURL=/build/_shared/chunk-7KSWRXAK.js.map
