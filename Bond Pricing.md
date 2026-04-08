@@ -135,7 +135,7 @@ $$R_d = d\times (e^\frac{R_c}{d} - 1)$$
 
 For instances in which rate conversion is necessary, the above methods are useful knowledge; for this chapter, however, we'll focus on continuously compounded rates.
 </span>
-:::{important} 📖 Summary: The Fundamentals of Bond Pricing
+:::{important} 📖 Summary - The Fundamentals of Bond Pricing
 :class: dropdown
 
 **In a nutshell:** This chapter explains that the value of any bond is simply the sum of its future cash flows, discounted to the present.

@@ -1,15 +1,21 @@
-# MyST Build folders
+# Build artifacts
 _build/
-public/
+_temp/
 
-# Jupyter / Python cache
-.ipynb_checkpoints/
-__pycache__/
-.DS_Store
-
-# Virtual Environments (if you are using one)
+# Virtual Environment
 venv/
-.env/
 .venv/
+env/
+bin/
+lib/
+include/
+pyvenv.cfg
 
-node_modules/
+# Jupyter & OS leftovers
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# PDF leftovers
+*.pdf
+*.tex

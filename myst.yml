@@ -12,11 +12,11 @@ project:
   authors:
     - name: Financial Python
  
-  exports:
-    - format: pdf
-      template: lapreprint-typst
-      output: book.pdf      # The filename it creates
-      id: my_pdf_export     # The "name" of this specific job
+#  exports:
+#    - format: pdf
+#      template: lapreprint-typst
+#      output: book.pdf      # The filename it creates
+#      id: my_pdf_export     # The "name" of this specific job
 
   downloads:
     - id: my_pdf_export     # ONLY USE THE ID HERE
@@ -69,11 +69,9 @@ project:
  
 site:
   template: book-theme
-  title: >-
-    "Basic Concepts Of Fixed Income: Basic Bond Concepts and the Term Structure
-    of Interest Rates"
   options:
-    style: static/custom.css 
+    style: static/custom.css
+    base_url: /Volume-Three-Chapter-One/ 
 
 
 
