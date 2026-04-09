@@ -25,7 +25,7 @@ There are three interactive options for notebook documents:
 
 **The start button** <img src="./start-button.svg" alt="start" style="height: 1.1em; display: inline-block; vertical-align: middle;"> **in a notebook page allows you to execute the code live inside the HTML page.**
 
-**in a notebook page allows you to execute the code live inside the HTML page.**
+
 
 **The first cell in each notebook includes options to open in Colab or with Jupyter Lab in Binder.**
 
