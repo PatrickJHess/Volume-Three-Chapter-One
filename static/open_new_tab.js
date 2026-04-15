@@ -68,3 +68,20 @@
     }, 500);
 
 })(); // This is the closure you assumed—it wraps everything above.
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Find all links that point to mybinder.org
+    const binderLinks = document.querySelectorAll('a[href*="mybinder.org"]');
+
+    binderLinks.forEach(function(link) {
+        link.addEventListener("click", function(event) {
+            // Trigger the pop-up warning
+            const userConfirmed = confirm("You are about to leave this site to access an interactive environment on Binder (an external website). Do you wish to continue?");
+            
+            // If the user clicks "Cancel", stop the redirect
+            if (!userConfirmed) {
+                event.preventDefault(); 
+            }
+        });
+    });
+});
