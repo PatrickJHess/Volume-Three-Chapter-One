@@ -20,7 +20,7 @@ There are three interactive options for notebook documents:
 | ----- | ----- | ----- | ----- |
 | **Binder** | Launches in a new browser tab (typically within a minute) and runs remotely. Supports up to 100 simultaneous users. | Execute existing cells, add or modify cells, and download the notebook. | The notebook will not be saved or available if saved in this mode. |
 | **Colab** | Offers the quickest and easiest access, not requiring Binder. A Google Drive is unnecessary for launching. | Execute cells or make a copy. | You must sign in to a Google account to execute cells or make a copy. You can download the notebook without signing into a Google account. |
-| **Live Code** | Requires a Binder launch and is ideal for demonstrations. | Run code in existing cells, and alter code in existing cells. | You cannot add cells or save results in this mode. |
+| **Live Code** | Requires a Binder launch and is ideal for demonstrations. | Run code in existing cells. | You cannot add, change, or save cells. |
 
 
 **The start button** <img src="./start-button.svg" alt="start" style="height: 1.1em; display: inline-block; vertical-align: middle;"> **in a notebook page allows you to execute the code live inside the HTML page.**
