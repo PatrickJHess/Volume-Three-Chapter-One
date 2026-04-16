@@ -84,7 +84,7 @@ In this case, the *zero-coupon bonds* can be shorted, and the proceeds can be us
 </span>
 
 
-```{tip} 🤖 AI Study Assistant-Bond Pricing
+```{tip} ✨ AI Study Assistant-Bond Pricing
 :class: dropdown
  
 Select a prompt below to open Google AI and explore these concepts further ↗ *(Sign in to save your chat history!)*

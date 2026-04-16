@@ -1,10 +1,9 @@
 # Financial Python
-# Welcome to Basic Concepts Of Fixed Income
+# Welcome to Basic Concepts Of Fixed Income: The Term Structure Of Interest Rates
 
 
-## Volume: Basic Concepts of Fixed Income
 
-### Chapter One: Basic Bond Concepts and the Term Structure of Interest Rates
+## Chapter One: Bond Pricing and a First Look at the Term Structure Of Interest Rates
   
 
 Bond pricing is founded on two core principles:
