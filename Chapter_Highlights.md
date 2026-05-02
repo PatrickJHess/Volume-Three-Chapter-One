@@ -1,6 +1,6 @@
-# Basic Bond Concepts and the Term Structure of Interest Rates
+# Basic Bond Concepts and a First Look at The Term Structure of Interest Rates
 
-**This Jupyter Book is Chapter One of the volume Basic Concepts of Fixed Income**.
+**This Jupyter Book is Chapter One of the volume Basic Concepts of Fixed Income-The Term Structure of Interest Rates**.
 
 Chapter One introduces the foundational principles of bond pricing. A primary focus of this chapter is calculating the term structure of interest rates, an essential gauge of financial market health, using data from US Treasury Bills (T-bills).
 
