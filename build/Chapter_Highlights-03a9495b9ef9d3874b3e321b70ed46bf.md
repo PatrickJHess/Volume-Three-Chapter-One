@@ -1,6 +1,6 @@
-# Basic Bond Concepts and a First Look at The Term Structure of Interest Rates
+# Chapter Highlights
 
-**This Jupyter Book is Chapter One of the volume Basic Concepts of Fixed Income-The Term Structure of Interest Rates**.
+**Chapter One: A First Look at the Term Structure of Interest Rates**.
 
 Chapter One introduces the foundational principles of bond pricing. A primary focus of this chapter is calculating the term structure of interest rates, an essential gauge of financial market health, using data from US Treasury Bills (T-bills).
 
@@ -31,14 +31,14 @@ This chapter's examples and discussions rely on the **Pandas** and **NumPy** lib
 
 **The chapter includes five sections:**
 
-1. *Introduction to Bond Pricing* covers some  basic concepts. 
+1. *Bond Pricing* covers some  basic concepts. 
 2. The  Jupyter notebook *NumPy and Pandas* introduces and illustrates the modules. 
-3. The  Jupyter notebook *Calculating and Graphing the Term Structure of Interest Rates* uses NumPy and Pandas to:
+3. The  Jupyter notebook *Calculating and Graphing the Term Structure* uses NumPy and Pandas to:
    * download data from DropBox that is used to calculate and graph the term structure on September 15, 2022.
    * download data from the U.S. Treasury that is used to calculate and graph the term structure on September 30, 2025
    * an exercise asking you to calculate and plot spot and forward rates with data downloaded from the US Treasury.
-4. *Python, Pandas, NumPy, and Financial Insights* summarizes the financial concepts and results.
-5. *Functions Imported by the Chapter* describes the functions imported from DropBox (*module_basic_concepts_fixed_income*).
+4. *Chapter Summary* summarizes the financial concepts and results.
+5. *Imported Functions* describes the functions imported from DropBox (*module_basic_concepts_fixed_income*).
 
 
 

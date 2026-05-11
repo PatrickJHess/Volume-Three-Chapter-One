@@ -1,10 +1,8 @@
-# Financial Python
-# Welcome to Basic Concepts Of Fixed Income: The Term Structure Of Interest Rates
+# ***Financial Python***
 
+# ***Basic Concepts Of Fixed Income: The Term Structure Of Interest Rates***
 
-
-## Chapter One: Bond Pricing and a First Look at the Term Structure Of Interest Rates
-  
+## ***Chapter One: Bond Pricing and a First Look at the Term Structure Of Interest Rates***
 
 Bond pricing is founded on two core principles:
 
@@ -17,4 +15,4 @@ This chapter initiates our study of bond pricing and the term structure of inter
 
 To illustrate these concepts, we will calculate spot and forward rates using U.S. Treasury Bills data from two distinct dates. The data will be sourced from a dedicated data library for this volume and external URLs. The results will be presented graphically to highlight two contrasting market conditions: one where inflation is expected to rise and another where it is expected to moderate.
 
-Subsequent chapters will build upon these bond pricing principles and the term structure to provide a deeper analysis of financial instrument pricing and the term structure itself.
+Subsequent chapters will build upon these bond pricing principles and the term structure to provide a deeper analysis of financial instrument pricing and the term structure itself.  
