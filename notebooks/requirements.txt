@@ -7,3 +7,5 @@ python-dateutil
 holidays
 ipynbname
 bs4
+pandas_market_calendars
+scipy
