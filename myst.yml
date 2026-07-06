@@ -29,15 +29,15 @@ project:
           file: Interacting With Jupyter Books.md
     - title: 'Basic Concepts of Fixed Income-Term Structure Of Interest Rates: Chapter One'
       children:
-        - title: Chapter Highlights
+        - title: ✨ Chapter Highlights
           file: Chapter_Highlights.md
-        - title: Bond Pricing
+        - title: 🏛️ Bond Pricing
           file: Bond Pricing.md
         - title: Numpy and Pandas
           file: notebooks/Numpy_And_Pandas.ipynb
-        - title: Calculating and Graphing The Term Structure
+        - title: 📈 Calculating and Graphing The Term Structure
           file: notebooks/Calculating_And_Graphing_The_Term_Structure_Of_Interest_Rates.ipynb
-        - title: Chapter Summary
+        - title: 📝 Chapter Summary
           file: Chapter_Summary.md
         - title: Imported Functions
           file: imported_functions.md
