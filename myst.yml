@@ -1,8 +1,7 @@
 version: 1
 project:
   title: >-
-    Basic Concepts Of Fixed Income-The Term Structure
-    of Interest Rates
+   "📊 From the basic mechanics of bond valuation to the building blocks of the yield curve"
   abstract: |
     An introduction to bond pricing, and the term structure of interest rates.
   github: PatrickJHess/Volume-Three-Chapter-One
