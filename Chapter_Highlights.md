@@ -25,7 +25,7 @@ Chapter One introduces the foundational principles of bond pricing. A primary fo
 
   * 🌐 Accessing data with a URL address  
 
-  * 🧩 Custom modules  
+  * 🧩 financial_quant package  
 
 ### 🔍 Background
   
@@ -55,7 +55,7 @@ This chapter's examples and discussions rely on the Pandas and NumPy libraries.
 
 4. **📝 Chapter Summary** summarizes the financial concepts and results.
 
-5. **📥 Imported Functions** describes the functions imported from DropBox (module_basic_concepts_fixed_income).
+5. **📥 Imported Functions** describes the functions imported from financial_quant package.
 
 
 
